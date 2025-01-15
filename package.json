@@ -1,0 +1,25 @@
+{
+  "name": "sustainablerecipefinder",
+  "version": "1.0.0",
+  "main": "backend.js",
+  "scripts": {
+    "start": "node backend.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Group four",
+  "license": "ISC",
+  "description": "A backend service for the Sustainable Recipe Finder application.",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.3"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
