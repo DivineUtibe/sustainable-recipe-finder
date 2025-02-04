@@ -9,6 +9,7 @@ const app = express();
 // Middleware
 app.use(express.json());
 app.use(cors());
+app.use(cors({origin:'*'}));
 
 // Determine MongoDB URI based on environment
 const mongoURI = process.env.NODE_ENV === 'test' 
@@ -28,11 +29,13 @@ mongoose.connect(mongoURI)
 // Import Routes
 const userRoutes = require('./routes/userRoutes');
 const recipeRoutes = require('./routes/recipeRoutes');
+const noteRoutes = require('./routes/noteRoutes');
 const favoriteRoutes = require('./routes/favoriteRoutes');
 
 // Use Routes
 app.use('/api/users', userRoutes);
 app.use('/api/recipes', recipeRoutes);
+app.use('/api/notes', noteRoutes);
 app.use('/api/favorites', favoriteRoutes);
 
 // Test Route

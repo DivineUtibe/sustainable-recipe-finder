@@ -2,7 +2,10 @@
     "recipes": [
       {
         "name": "Jollof Rice",
+        "image": "images/jollof_rice.png",
         "short_description": "Jollof Rice is a popular and flavorful West African dish that is typically made with rice, tomatoes, onions, and a variety of seasonings. To make it more sustainable, you can focus on using local, seasonal ingredients, minimizing food waste, and incorporating plant-based or low-impact proteins. Below is a sustainable Jollof Rice recipe.",
+        "time": "35 mins",
+        "calories": "285 cal",
         "ingredients": [
           { "item": "long-grain parboiled rice", "quantity": "2 cups" },
           { "item": "diced tomatoes", "quantity": "14 oz (1 can)" },
@@ -48,7 +51,10 @@
       },
       {
         "name": "Pasta",
+        "image": "images/pasta.png",
         "short_description": "Here’s a sustainable Pasta recipe that focuses on plant-based ingredients, minimizes food waste, and uses locally sourced and seasonal vegetables to create a flavorful dish. This recipe is simple, healthy, and reduces environmental impact while still being delicious. Sustainable Pasta Primavera with Seasonal Vegetables",
+        "time": "35 mins",
+        "calories": "131 cal",
         "ingredients": [
           { "item": "whole wheat pasta", "quantity": "8 oz (about 225g)" },
           { "item": "olive oil", "quantity": "1 tablespoon, extra virgin, sustainably sourced" },
@@ -90,7 +96,10 @@
       },
       {
         "name": "Fried Rice",
+        "image": "images/fried_rice.png",
         "short_description": "This Sustainable Fried Rice recipe focuses on using leftover rice, seasonal vegetables, and plant-based ingredients. It is versatile, reduces food waste, and is both healthy and delicious.",
+        "time": "35 mins",
+        "calories": "163 cal",
         "ingredients": [
           { "item": "leftover cooked rice", "quantity": "2 cups (preferably a day old)" },
           { "item": "vegetable oil", "quantity": "1 tablespoon (or sustainably sourced oil)" },
@@ -135,7 +144,10 @@
       },
       {
         "name": "Pilaf",
+        "image": "images/pilaf.png",
         "short_description": "A Sustainable Vegetable Pilaf using whole grains, seasonal vegetables, and plant-based ingredients to create a flavorful and eco-friendly dish.",
+        "time": "35 mins",
+        "calories": "359 cal",
         "ingredients": [
           { "item": "brown rice", "quantity": "1 cup (or any locally sourced whole grain like quinoa, farro, or barley)" },
           { "item": "olive oil", "quantity": "2 tablespoons (extra virgin and sustainably sourced)" },
@@ -180,7 +192,10 @@
       },
       {
         "name": "Porridge Yam",
+        "image": "images/porridge_yam.png",
         "short_description": "A comforting and nutritious dish featuring yam, vegetables, and plant-based seasonings, made sustainably with locally sourced ingredients.",
+        "time": "35 mins",
+        "calories": "189 cal",
         "ingredients": [
           { "item": "yam", "quantity": "2 medium-sized (locally sourced if possible)" },
           { "item": "palm oil", "quantity": "1 tablespoon (sustainably sourced, or substitute with olive oil)" },
@@ -226,7 +241,10 @@
       },
       {
         "name": "Egusi Soup",
+        "image": "images/egusi_soup.png",
         "short_description": "A rich, plant-based Nigerian soup made with egusi seeds, seasonal vegetables, and sustainable ingredients, perfect for an eco-conscious meal.",
+        "time": "35 mins",
+        "calories": "182 cal",
         "ingredients": [
           { "item": "ground egusi (melon seeds)", "quantity": "1 cup (locally sourced or repurposed from leftover seeds)" },
           { "item": "palm oil", "quantity": "2 tablespoons (sustainably sourced, or substitute with olive oil)" },
@@ -271,7 +289,10 @@
       },
       {
         "name": "Efo Riro",
+        "image": "images/efo_riro.png",
         "short_description": "A savory, plant-based Nigerian spinach stew made with seasonal vegetables, plant-based proteins, and sustainable ingredients.",
+        "time": "35 mins",
+        "calories": "177 cal",
         "ingredients": [
           { "item": "fresh spinach", "quantity": "2 cups (or local leafy greens like kale or collard greens)" },
           { "item": "palm oil", "quantity": "1 tablespoon (sustainably sourced, or substitute with olive oil)" },
@@ -316,7 +337,10 @@
       },
       {
         "name": "Afang Soup",
+        "image": "images/afang_soup.png",
         "short_description": "A traditional Nigerian soup adapted with plant-based proteins, seasonal greens, and sustainable practices for an eco-conscious twist.",
+        "time": "35 mins",
+        "calories": "169 cal",
         "ingredients": [
           { "item": "Afang leaves", "quantity": "1 cup (or substitute with spinach or lamb’s lettuce)" },
           { "item": "waterleaf", "quantity": "2 cups (or substitute with amaranth or moringa)" },
@@ -361,7 +385,10 @@
       },
       {
         "name": "Okro Soup",
+        "image": "images/okro_soup.png",
         "short_description": "A sustainable take on the classic Nigerian dish, featuring plant-based proteins, seasonal okra, and eco-friendly practices.",
+        "time": "35 mins",
+        "calories": "160 cal",
         "ingredients": [
           { "item": "fresh okra", "quantity": "2 cups (locally grown and in season)" },
           { "item": "palm oil", "quantity": "2 tablespoons (sustainably sourced, or olive oil as an alternative)" },
@@ -405,7 +432,10 @@
       },
       {
         "name": "Beans (Ewa Agoyin)",
+        "image": "images/beans.png",
         "short_description": "A sustainable version of the classic Nigerian mashed beans dish, paired with a spicy, flavorful sauce and optional plantains.",
+        "time": "35 mins",
+        "calories": "347 cal",
         "ingredients": [
           { "item": "dried black-eyed peas or preferred beans", "quantity": "2 cups (locally grown and in season)" },
           { "item": "palm oil", "quantity": "1 tablespoon (sustainably sourced, or olive oil as an alternative)" },
