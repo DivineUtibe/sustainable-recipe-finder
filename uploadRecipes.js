@@ -12,6 +12,14 @@ mongoose.connect(process.env.MONGO_URI)
   .then(async () => {
     for (let recipe of recipes) {
       try {
+        // Check if the recipe already exists in the database (by name)
+        const existingRecipe = await Recipe.findOne({ name: recipe.name });
+
+        if (existingRecipe) {
+          console.log(`Skipping "${recipe.name}" (already exists).`);
+          continue; // Skip this recipe if it already exists
+        }
+
         // Assign the 'submittedBy' field to 'creator'
         recipe.submittedBy = submittedBy;
 

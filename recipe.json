@@ -1,479 +1,1474 @@
 {
-    "recipes": [
-      {
-        "name": "Jollof Rice",
-        "image": "images/jollof_rice.png",
-        "short_description": "Jollof Rice is a popular and flavorful West African dish that is typically made with rice, tomatoes, onions, and a variety of seasonings. To make it more sustainable, you can focus on using local, seasonal ingredients, minimizing food waste, and incorporating plant-based or low-impact proteins. Below is a sustainable Jollof Rice recipe.",
-        "time": "35 mins",
-        "calories": "285 cal",
-        "ingredients": [
-          { "item": "long-grain parboiled rice", "quantity": "2 cups" },
-          { "item": "diced tomatoes", "quantity": "14 oz (1 can)" },
-          { "item": "onion", "quantity": "1, chopped" },
-          { "item": "bell pepper", "quantity": "1, chopped" },
-          { "item": "garlic", "quantity": "2 cloves, minced" },
-          { "item": "fresh ginger", "quantity": "1 tablespoon, minced" },
-          { "item": "vegetable oil", "quantity": "1/4 cup" },
-          { "item": "tomato paste", "quantity": "1 tablespoon" },
-          { "item": "thyme", "quantity": "1 teaspoon" },
-          { "item": "curry powder", "quantity": "1 teaspoon" },
-          { "item": "paprika", "quantity": "1 teaspoon" },
-          { "item": "bay leaf", "quantity": "1" },
-          { "item": "vegetable broth", "quantity": "2 cups" },
-          { "item": "soy sauce or tamari (optional)", "quantity": "1 tablespoon" },
-          { "item": "mixed vegetables (peas, carrots, green beans)", "quantity": "1 cup" },
-          { "item": "salt", "quantity": "to taste" },
-          { "item": "pepper", "quantity": "to taste" },
-          { "item": "fresh cilantro or parsley (optional)", "quantity": "for garnish" }
-        ],
-        "instructions": [
-          "Rinse the rice thoroughly under cold water to remove excess starch. Drain and set aside.",
-          "In a blender, combine the diced tomatoes, onion, bell pepper, garlic, and ginger. Blend until smooth.",
-          "In a large pot or Dutch oven, heat the vegetable oil over medium heat. Add the tomato paste and cook for 1-2 minutes. Then, pour in the blended tomato mixture. Stir well and let it cook for 10-15 minutes to thicken.",
-          "Stir in the thyme, curry powder, paprika, bay leaf, soy sauce (if using), salt, and pepper. Let simmer for 5 minutes.",
-          "Add the rinsed rice and stir to coat in the tomato sauce. Pour in the vegetable broth and stir again. Bring to a simmer.",
-          "Cover the pot and reduce heat to low. Cook for 20-30 minutes, stirring occasionally. Add more broth if needed until rice is tender and liquid is absorbed.",
-          "About 10 minutes before the rice is done, stir in the seasonal vegetables. Cover and let them cook with the rice until tender.",
-          "Taste and adjust seasonings if necessary. Remove the bay leaf before serving.",
-          "Garnish with fresh cilantro or parsley, if desired, and serve."
-        ],
-        "why_this_recipe_is_sustainable": [
-        "Seasonal and Local Ingredients: By using fresh or local vegetables and making your own vegetable broth, you reduce food miles and packaging waste.",
-        "Plant-Based: The dish is naturally plant-based, which is generally more sustainable than animal-based alternatives. It also allows you to add more vegetables and legumes for additional protein.",
-        "Rice: Parboiled rice is often produced sustainably, but choosing a local variety helps reduce environmental impact. If possible, seek out rice brands that support ethical farming practices.",
-        "Minimal Waste: The use of leftover or seasonal vegetables helps minimize food waste. You can also store any leftover rice for the next day."
-        ],
-        "sustainability_ratings": {
-          "water_usage": 4,
-          "energy_impact": 5,
-          "waste_consideration": 3
-        }
-      },
-      {
-        "name": "Pasta",
-        "image": "images/pasta.png",
-        "short_description": "Here’s a sustainable Pasta recipe that focuses on plant-based ingredients, minimizes food waste, and uses locally sourced and seasonal vegetables to create a flavorful dish. This recipe is simple, healthy, and reduces environmental impact while still being delicious. Sustainable Pasta Primavera with Seasonal Vegetables",
-        "time": "35 mins",
-        "calories": "131 cal",
-        "ingredients": [
-          { "item": "whole wheat pasta", "quantity": "8 oz (about 225g)" },
-          { "item": "olive oil", "quantity": "1 tablespoon, extra virgin, sustainably sourced" },
-          { "item": "zucchini", "quantity": "1, sliced (or any seasonal squash)" },
-          { "item": "cherry tomatoes", "quantity": "1 cup, halved (or other in-season tomatoes)" },
-          { "item": "bell pepper", "quantity": "1, chopped" },
-          { "item": "asparagus", "quantity": "1 small bunch, trimmed and cut into 2-inch pieces (or green beans)" },
-          { "item": "garlic", "quantity": "2 cloves, minced" },
-          { "item": "lemon juice", "quantity": "1 tablespoon (or zest for more flavor)" },
-          { "item": "salt", "quantity": "to taste" },
-          { "item": "pepper", "quantity": "to taste" },
-          { "item": "basil or parsley", "quantity": "chopped (for garnish)" },
-          { "item": "nutritional yeast", "quantity": "1/4 cup (optional, for a cheesy flavor)" },
-          { "item": "Parmesan cheese", "quantity": "1/4 cup (optional)" },
-          { "item": "roasted sunflower seeds or pine nuts", "quantity": "1/4 cup (optional for added crunch)" }
-        ],
-        "instructions": [
-          "Cook the whole wheat pasta in a large pot of salted water until al dente (about 9-12 minutes).",
-          "Drain the pasta, reserving 1/2 cup of the pasta water. Set the pasta aside.",
-          "Heat olive oil in a large skillet over medium heat. Add zucchini, bell pepper, and asparagus (or green beans). Sauté for 5-7 minutes until tender but crisp.",
-          "Add cherry tomatoes and garlic, cooking for another 2 minutes until tomatoes soften.",
-          "Add the drained pasta to the skillet with vegetables. Toss to combine, adding the reserved pasta water to help the sauce come together.",
-          "Stir in lemon juice (or zest) and season with salt and pepper to taste.",
-          "Remove from heat and toss in fresh basil or parsley. Optionally, add nutritional yeast or Parmesan, and top with roasted sunflower seeds or pine nuts.",
-          "Serve warm."
-        ],
-        "why_this_recipe_is_sustainable": [
-          "Whole Wheat Pasta: Whole wheat pasta is a healthier option with more fiber and nutrients. It’s also typically produced with less processing than white pasta, making it more environmentally friendly.",
-          "Seasonal Vegetables: This dish uses seasonal and local vegetables like zucchini, cherry tomatoes, bell peppers, and asparagus. Choosing seasonal produce helps reduce food miles and supports local farming.",
-          "Plant-Based: By using only vegetables, this pasta dish is entirely plant-based, which generally has a smaller environmental footprint compared to meat-based dishes.",
-          "Minimal Food Waste: The recipe is flexible, allowing you to use whatever vegetables are in season or leftover from other meals. You can also repurpose vegetable scraps (e.g., stems, peels) into homemade vegetable broth for future use.",
-          "Sustainable Olive Oil: Using olive oil from sustainably sourced producers supports environmentally friendly farming practices."
-        ],
-        "sustainability_ratings": {
-          "water_usage": 4,
-          "energy_impact": 5,
-          "waste_consideration": 3
-        }
-      },
-      {
-        "name": "Fried Rice",
-        "image": "images/fried_rice.png",
-        "short_description": "This Sustainable Fried Rice recipe focuses on using leftover rice, seasonal vegetables, and plant-based ingredients. It is versatile, reduces food waste, and is both healthy and delicious.",
-        "time": "35 mins",
-        "calories": "163 cal",
-        "ingredients": [
-          { "item": "leftover cooked rice", "quantity": "2 cups (preferably a day old)" },
-          { "item": "vegetable oil", "quantity": "1 tablespoon (or sustainably sourced oil)" },
-          { "item": "onion", "quantity": "1, diced" },
-          { "item": "carrot", "quantity": "1, diced or julienned (or any seasonal root vegetable)" },
-          { "item": "peas", "quantity": "1/2 cup (fresh, frozen, or leftover)" },
-          { "item": "bell pepper", "quantity": "1/2 cup, diced (or any seasonal vegetable like zucchini or cabbage)" },
-          { "item": "garlic", "quantity": "2 cloves, minced" },
-          { "item": "soy sauce or tamari", "quantity": "2 tablespoons (low-sodium option for healthier dish)" },
-          { "item": "sesame oil", "quantity": "1 tablespoon (optional, for extra flavor)" },
-          { "item": "ground ginger", "quantity": "1/4 teaspoon (or fresh ginger, minced)" },
-          { "item": "green onions", "quantity": "1-2, sliced (for garnish)" },
-          { "item": "rice vinegar or lime juice", "quantity": "1 tablespoon (for added tang)" },
-          { "item": "cilantro", "quantity": "1/4 cup, fresh (optional, for garnish)" },
-          { "item": "nuts or seeds", "quantity": "1/4 cup (optional, such as roasted sunflower seeds or peanuts)" },
-          { "item": "eggs", "quantity": "1-2 (optional, for added protein, or tofu for a plant-based version)" }
-        ],
-        "instructions": [
-          "If you don't have leftover rice, cook rice ahead of time and let it cool completely. Ideally, use day-old rice for better texture when frying.",
-          "Heat the vegetable oil in a large skillet or wok over medium heat. Add the diced onion and cook for 3-4 minutes until softened.",
-          "Add the carrots and bell pepper (or other seasonal vegetables) and cook for an additional 4-5 minutes, stirring occasionally.",
-          "Add the garlic and ginger and cook for another 1-2 minutes until fragrant.",
-          "Push the vegetables to one side of the pan. If you're using eggs, crack them into the empty space and scramble them until fully cooked. If using tofu, crumble and cook it until golden in the same manner.",
-          "Add the cold, leftover rice to the pan, breaking up any clumps. Stir to mix the rice with the vegetables and eggs/tofu.",
-          "Add the soy sauce, sesame oil (if using), and rice vinegar or lime juice. Stir to coat the rice evenly in the sauces.",
-          "Taste the fried rice and adjust seasoning with additional soy sauce, salt, or pepper if needed.",
-          "Once everything is well mixed and heated through, remove from heat and serve.",
-          "Garnish with green onions, fresh cilantro, and optional nuts or seeds for extra crunch. Serve warm as a main dish or as a side with other plant-based dishes."
-        ],
-        "why_this_recipe_is_sustainable": [
-          "Leftover Rice: Using leftover rice helps reduce food waste. If you have any rice from previous meals, repurposing it into fried rice is an excellent way to make use of it.",
-          "Seasonal Vegetables: This recipe is very flexible—use what vegetables are in season in your area, such as zucchini, cabbage, spinach, or peas. Buying seasonal produce lowers the carbon footprint and supports local farmers.",
-          "Plant-Based: Fried rice can easily be made plant-based by using tofu (instead of eggs) or skipping the eggs entirely. Plant-based meals have a smaller environmental footprint compared to animal-based ones.",
-          "Minimal Packaging: By using fresh, local vegetables and pantry staples, this recipe avoids excessive packaging and processed foods.",
-          "Customizable: You can add any leftover veggies, grains, or plant-based protein, making this recipe great for reducing food waste and utilizing whatever you have in your fridge."
-        ],
-        "sustainability_ratings": {
-          "water_usage": 4,
-          "energy_impact": 4,
-          "waste_consideration": 5
-        }
-      },
-      {
-        "name": "Pilaf",
-        "image": "images/pilaf.png",
-        "short_description": "A Sustainable Vegetable Pilaf using whole grains, seasonal vegetables, and plant-based ingredients to create a flavorful and eco-friendly dish.",
-        "time": "35 mins",
-        "calories": "359 cal",
-        "ingredients": [
-          { "item": "brown rice", "quantity": "1 cup (or any locally sourced whole grain like quinoa, farro, or barley)" },
-          { "item": "olive oil", "quantity": "2 tablespoons (extra virgin and sustainably sourced)" },
-          { "item": "onion", "quantity": "1, chopped (local and in season)" },
-          { "item": "garlic", "quantity": "2 cloves, minced" },
-          { "item": "carrot", "quantity": "1, diced (or any seasonal root vegetable)" },
-          { "item": "bell pepper", "quantity": "1, diced (or other seasonal vegetables like zucchini or eggplant)" },
-          { "item": "peas", "quantity": "1/2 cup (fresh or frozen, or any other green veggie like green beans)" },
-          { "item": "thyme", "quantity": "1 teaspoon (dried or fresh if available)" },
-          { "item": "ground cumin", "quantity": "1 teaspoon (or another preferred spice like coriander or turmeric)" },
-          { "item": "bay leaf", "quantity": "1" },
-          { "item": "vegetable broth", "quantity": "2 cups (preferably homemade or low-sodium)" },
-          { "item": "salt and pepper", "quantity": "to taste" },
-          { "item": "fresh herbs", "quantity": "1/4 cup chopped (like parsley, cilantro, or mint)" },
-          { "item": "toasted nuts or seeds", "quantity": "Optional (like sunflower seeds, almonds, or pine nuts)" }
-        ],
-        "instructions": [
-          "Rinse the brown rice under cold water to remove excess starch. Drain and set aside.",
-          "Heat the olive oil in a large pot or deep skillet over medium heat. Add the chopped onion and cook for 3-4 minutes until softened.",
-          "Add the garlic, carrots, and bell pepper (or other seasonal vegetables). Cook for 5-7 minutes, stirring occasionally, until the vegetables are softened and slightly caramelized.",
-          "Add the thyme, cumin, bay leaf, salt, and pepper to the vegetables. Stir to coat the vegetables in the spices, and let the spices cook for a minute to enhance their aroma.",
-          "Add the rinsed rice to the pot, stirring to mix it with the vegetables and spices.",
-          "Pour in the vegetable broth, bring to a boil, then reduce the heat to low. Cover the pot and simmer for 35-40 minutes, or until the rice is cooked and the liquid has been absorbed. Adjust cooking time for different grains as needed.",
-          "About 5 minutes before the rice is done cooking, stir in the peas (or other green vegetables). Cover again and allow them to steam until the rice is cooked through.",
-          "Once the rice is cooked, remove the pot from heat and let it sit, covered, for 5 minutes. Remove the bay leaf and fluff the rice with a fork.",
-          "Stir in the chopped fresh herbs and adjust seasoning if needed.",
-          "Serve the pilaf warm as a main dish or a side. Garnish with toasted nuts or seeds for added texture."
-        ],
-        "why_this_recipe_is_sustainable": [
-          "Whole Grains: Using whole grains like brown rice, quinoa, or barley provides more nutrients and is less processed, reducing environmental impact.",
-          "Seasonal and Local Vegetables: This recipe adapts to what’s in season and local, lowering food miles and supporting local farming.",
-          "Plant-Based: Entirely plant-based, this dish has a smaller carbon footprint than meat-based dishes.",
-          "Homemade Broth: Using homemade vegetable broth from scraps reduces waste and avoids packaged alternatives.",
-          "Minimal Waste: Encourages using leftovers and seasonal produce to reduce food waste.",
-          "Energy Efficient Cooking: Brown rice, when cooked with the lid on, retains heat well, reducing energy usage."
-        ],
-        "sustainability_ratings": {
-          "water_usage": 4,
-          "energy_impact": 5,
-          "waste_consideration": 5
-        }
-      },
-      {
-        "name": "Porridge Yam",
-        "image": "images/porridge_yam.png",
-        "short_description": "A comforting and nutritious dish featuring yam, vegetables, and plant-based seasonings, made sustainably with locally sourced ingredients.",
-        "time": "35 mins",
-        "calories": "189 cal",
-        "ingredients": [
-          { "item": "yam", "quantity": "2 medium-sized (locally sourced if possible)" },
-          { "item": "palm oil", "quantity": "1 tablespoon (sustainably sourced, or substitute with olive oil)" },
-          { "item": "onion", "quantity": "1, chopped (local and in season)" },
-          { "item": "garlic", "quantity": "2 cloves, minced" },
-          { "item": "bell pepper", "quantity": "1 small, chopped (or other seasonal vegetables)" },
-          { "item": "tomatoes", "quantity": "1-2, chopped (or 1/2 cup canned tomatoes)" },
-          { "item": "thyme", "quantity": "1 teaspoon (dried or fresh if available)" },
-          { "item": "ground pepper", "quantity": "1/2 teaspoon (or to taste)" },
-          { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or substitute with nutritional yeast)" },
-          { "item": "ground ginger", "quantity": "1 teaspoon (optional)" },
-          { "item": "vegetable broth", "quantity": "1 cup (homemade or low-sodium)" },
-          { "item": "spinach", "quantity": "1/2 cup (or other leafy greens like kale)" },
-          { "item": "salt", "quantity": "to taste" },
-          { "item": "fresh herbs", "quantity": "1/4 cup (optional, like parsley or cilantro)" },
-          { "item": "roasted peanuts", "quantity": "1/4 cup (optional, for crunch and protein)" }
-        ],
-        "instructions": [
-          "Peel the yams and cut them into medium cubes. Rinse well and set aside.",
-          "In a large pot, add the cubed yam and enough water to cover them. Bring to a boil, then reduce heat and simmer for 10-15 minutes, or until the yams are soft but still hold their shape. Drain and set aside.",
-          "In the same pot, heat the palm oil (or olive oil) over medium heat. Add the chopped onion and garlic, cooking for 2-3 minutes until softened.",
-          "Add the bell pepper, tomatoes, thyme, ground ginger, and ground pepper. Stir and cook for about 5-7 minutes until the tomatoes soften and release their juices.",
-          "Pour in the vegetable broth and bring to a simmer. Cook the vegetable mixture for an additional 5 minutes.",
-          "Add the cooked yams to the pot and stir to combine. Let the yam cook in the broth and vegetable mix for about 10 minutes to meld the flavors.",
-          "Stir in the spinach, kale, or other leafy greens, cooking for another 2-3 minutes until the greens are wilted.",
-          "Taste and adjust seasoning with salt, pepper, or additional spices as needed.",
-          "Once the porridge yam reaches the desired consistency (thick but not too dry), remove from heat.",
-          "Garnish with fresh herbs like parsley or cilantro and sprinkle roasted peanuts on top before serving."
-        ],
-        "why_this_recipe_is_sustainable": [
-          "Locally Sourced Yam: Reduces the carbon footprint by using locally grown yams.",
-          "Seasonal Vegetables: Flexible and encourages the use of seasonal vegetables like spinach, kale, or peppers.",
-          "Plant-Based: Entirely plant-based, making it eco-friendly with a smaller carbon footprint.",
-          "Homemade Broth: Reduces packaging waste and minimizes food waste by using vegetable scraps.",
-          "Minimal Waste: Encourages using leftovers and fresh ingredients to reduce food waste.",
-          "Energy Efficient: Cooking in one pot and simmering conserves energy during preparation."
-        ],
-        "sustainability_ratings": {
-          "water_usage": 4,
-          "energy_impact": 5,
-          "waste_consideration": 5
-        }
-      },
-      {
-        "name": "Egusi Soup",
-        "image": "images/egusi_soup.png",
-        "short_description": "A rich, plant-based Nigerian soup made with egusi seeds, seasonal vegetables, and sustainable ingredients, perfect for an eco-conscious meal.",
-        "time": "35 mins",
-        "calories": "182 cal",
-        "ingredients": [
-          { "item": "ground egusi (melon seeds)", "quantity": "1 cup (locally sourced or repurposed from leftover seeds)" },
-          { "item": "palm oil", "quantity": "2 tablespoons (sustainably sourced, or substitute with olive oil)" },
-          { "item": "onion", "quantity": "1, chopped (local and in season)" },
-          { "item": "garlic", "quantity": "2 cloves, minced" },
-          { "item": "bell pepper", "quantity": "1 small, chopped (or other seasonal vegetables)" },
-          { "item": "tomatoes", "quantity": "1-2, chopped (fresh or canned)" },
-          { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or substitute with nutritional yeast)" },
-          { "item": "vegetable broth", "quantity": "2 cups (homemade or low-sodium)" },
-          { "item": "spinach", "quantity": "1 cup (or other leafy greens like kale)" },
-          { "item": "peas", "quantity": "1/2 cup (frozen or fresh, or substitute with green beans, okra, or zucchini)" },
-          { "item": "thyme", "quantity": "1 teaspoon (dried or fresh if available)" },
-          { "item": "ground pepper", "quantity": "1 teaspoon (or to taste)" },
-          { "item": "salt", "quantity": "to taste" },
-          { "item": "ground ginger", "quantity": "1/2 teaspoon (optional)" },
-          { "item": "cooked beans", "quantity": "1/2 cup (optional, for added protein)" }
-        ],
-        "instructions": [
-          "In a small bowl, mix the ground egusi with about 1/4 cup of warm water to form a thick paste. Set aside.",
-          "In a large pot, heat the palm oil (or olive oil) over medium heat. Add the chopped onion and garlic, cooking for 2-3 minutes until softened.",
-          "Add the chopped bell pepper and tomatoes. Stir and cook for 5-7 minutes until the tomatoes release their juices.",
-          "Pour in the vegetable broth and bring to a simmer. Add the ground crayfish (or nutritional yeast) for umami flavor. Season with thyme, ground pepper, and salt. Simmer for 10 minutes.",
-          "Stir the egusi paste into the soup. Cook for 10-15 minutes, stirring occasionally, until the soup thickens.",
-          "Add the leafy greens, peas, and other seasonal vegetables. Stir and cook for 5-7 minutes until the vegetables are tender.",
-          "If using cooked beans, stir them in at this stage to add protein and texture.",
-          "Taste and adjust seasoning with salt, pepper, or additional spices as needed.",
-          "Serve the soup warm with sustainable side dishes like brown rice, fufu, or pounded yam."
-        ],
-        "why_this_recipe_is_sustainable": [
-          "Locally Sourced Ingredients: Supports local farming communities and reduces food miles by using local produce like spinach and kale.",
-          "Plant-Based Option: Reduces environmental impact while maintaining a healthy, protein-rich profile with vegetables, beans, and egusi.",
-          "Homemade Broth: Encourages using kitchen scraps to reduce waste and avoid packaging.",
-          "Minimal Waste: Adapts to seasonal ingredients and leftovers, minimizing food waste.",
-          "Sustainable Palm Oil: Recommends sustainably sourced palm oil to prevent deforestation and biodiversity loss, with olive oil as an alternative.",
-          "Flexible Ingredients: Promotes sustainability by using whatever seasonal vegetables are available, reducing food waste and ensuring adaptability."
-        ],
-        "sustainability_ratings": {
-          "water_usage": 4,
-          "energy_impact": 5,
-          "waste_consideration": 5
-        }
-      },
-      {
-        "name": "Efo Riro",
-        "image": "images/efo_riro.png",
-        "short_description": "A savory, plant-based Nigerian spinach stew made with seasonal vegetables, plant-based proteins, and sustainable ingredients.",
-        "time": "35 mins",
-        "calories": "177 cal",
-        "ingredients": [
-          { "item": "fresh spinach", "quantity": "2 cups (or local leafy greens like kale or collard greens)" },
-          { "item": "palm oil", "quantity": "1 tablespoon (sustainably sourced, or substitute with olive oil)" },
-          { "item": "onion", "quantity": "1, chopped (local and in season)" },
-          { "item": "garlic", "quantity": "2 cloves, minced" },
-          { "item": "bell pepper", "quantity": "1 small, chopped (or other seasonal peppers)" },
-          { "item": "fresh tomatoes", "quantity": "2-3, blended (or canned if fresh is unavailable)" },
-          { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or substitute with nutritional yeast)" },
-          { "item": "dried thyme", "quantity": "1 teaspoon (or fresh if available)" },
-          { "item": "ground pepper", "quantity": "1 teaspoon (or to taste)" },
-          { "item": "ground ginger", "quantity": "1 teaspoon (optional)" },
-          { "item": "vegetable broth", "quantity": "2 cups (homemade or low-sodium)" },
-          { "item": "cooked beans", "quantity": "1 cup (optional, for protein; black-eyed peas, kidney beans, or chickpeas work well)" },
-          { "item": "soy sauce or tamari", "quantity": "1 tablespoon (low-sodium option)" },
-          { "item": "salt", "quantity": "to taste" },
-          { "item": "tofu", "quantity": "1/2 cup (optional, or use other plant-based protein like tempeh)" },
-          { "item": "fresh herbs", "quantity": "1/4 cup (optional, parsley or cilantro for garnish)" }
-        ],
-        "instructions": [
-          "Wash and chop the spinach (or other leafy greens). Remove stems if using tougher greens like kale.",
-          "In a large pot, heat the palm oil (or olive oil) over medium heat. Add the chopped onions and garlic, cooking for 2-3 minutes until softened.",
-          "Add the chopped bell pepper and cook for 2 minutes. Stir in the blended tomatoes, thyme, ground pepper, ginger, and soy sauce. Cook for 5-7 minutes until the tomato mixture thickens and oil floats to the top.",
-          "Add crumbled tofu or cooked beans to the pot. Stir to combine and cook for 5-7 minutes to blend the flavors.",
-          "Pour in the vegetable broth, stir, and let simmer for 10 minutes to allow the stew to thicken slightly.",
-          "Add the chopped spinach (or other leafy greens) and stir well. Cook for 5-7 minutes until the greens are wilted and the stew reaches your desired consistency.",
-          "Taste and adjust seasoning with salt, pepper, or soy sauce as needed.",
-          "Serve hot with rice, fufu, or your preferred side dish."
-        ],
-        "why_this_recipe_is_sustainable": [
-          "Plant-Based Protein: Using tofu or beans as a protein source reduces the environmental impact compared to animal proteins, while maintaining a nutrient-rich meal.",
-          "Seasonal and Local Ingredients: Incorporates seasonal vegetables like spinach or kale, supporting local farming and reducing food miles.",
-          "Homemade Broth: Encourages making vegetable broth from kitchen scraps to minimize packaging waste and enhance sustainability.",
-          "Minimized Waste: Adapts to available leftovers (e.g., cooked greens, beans) and promotes reducing food waste.",
-          "Sustainable Palm Oil: Suggests sustainably sourced palm oil or olive oil to minimize deforestation and biodiversity impact.",
-          "Minimal Packaging: Focuses on fresh vegetables and homemade components to reduce reliance on packaged items."
-        ],
-        "sustainability_ratings": {
-          "water_usage": 4,
-          "energy_impact": 5,
-          "waste_consideration": 5
-        }
-      },
-      {
-        "name": "Afang Soup",
-        "image": "images/afang_soup.png",
-        "short_description": "A traditional Nigerian soup adapted with plant-based proteins, seasonal greens, and sustainable practices for an eco-conscious twist.",
-        "time": "35 mins",
-        "calories": "169 cal",
-        "ingredients": [
-          { "item": "Afang leaves", "quantity": "1 cup (or substitute with spinach or lamb’s lettuce)" },
-          { "item": "waterleaf", "quantity": "2 cups (or substitute with amaranth or moringa)" },
-          { "item": "palm oil", "quantity": "2 tablespoons (sustainably sourced, or use olive oil)" },
-          { "item": "onion", "quantity": "1, chopped (local and in season)" },
-          { "item": "garlic", "quantity": "2 cloves, minced" },
-          { "item": "bell pepper", "quantity": "1 small, chopped (or other seasonal peppers)" },
-          { "item": "tomatoes", "quantity": "1-2, blended (or canned if fresh is unavailable)" },
-          { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or substitute with nutritional yeast)" },
-          { "item": "ground pepper", "quantity": "1 teaspoon (or to taste)" },
-          { "item": "dried thyme", "quantity": "1 teaspoon (or fresh if available)" },
-          { "item": "vegetable broth", "quantity": "1-2 cups (preferably homemade)" },
-          { "item": "cooked beans", "quantity": "1 cup (black-eyed peas, kidney beans, or chickpeas)" },
-          { "item": "tofu", "quantity": "1/2 cup (optional, for protein and texture)" },
-          { "item": "salt", "quantity": "to taste" },
-          { "item": "fresh herbs", "quantity": "1/4 cup (optional, parsley or cilantro for garnish)" },
-          { "item": "roasted peanuts or groundnut paste", "quantity": "1/4 cup (optional, for added richness)" }
-        ],
-        "instructions": [
-          "Wash and chop the Afang leaves and waterleaf (or substitute greens) into smaller pieces. Set them aside.",
-          "In a large pot, heat palm oil (or olive oil) over medium heat. Sauté onions and garlic for 2-3 minutes until softened.",
-          "Add chopped bell pepper and cook for another 2 minutes. Stir in blended tomatoes, ground crayfish (or nutritional yeast), ground pepper, and thyme. Cook for 5-7 minutes until the tomato mixture thickens and oil rises to the top.",
-          "Add cooked beans and tofu to the pot, stirring to combine. If using roasted peanuts or groundnut paste, add them now. Cook for an additional 5 minutes to blend flavors.",
-          "Pour in vegetable broth and simmer for 10-15 minutes, allowing the soup to thicken and flavors to meld.",
-          "Add chopped Afang leaves and waterleaf. Stir well and cook for 5-7 minutes until greens are tender.",
-          "Taste and adjust seasoning with salt, pepper, or more broth as needed.",
-          "Serve hot with rice, fufu, or any preferred side dish."
-        ],
-        "why_this_recipe_is_sustainable": [
-          "Plant-Based Protein: Beans and tofu replace meat or fish, reducing the environmental footprint.",
-          "Local and Seasonal Ingredients: Greens like spinach or amaranth reduce food miles and support local farming.",
-          "Homemade Broth: Encourages making broth from kitchen scraps to reduce packaging waste.",
-          "Sustainable Palm Oil: Suggests sustainably sourced palm oil or olive oil to minimize environmental impact.",
-          "Waste Reduction: Promotes using leftover vegetables or beans, helping reduce food waste.",
-          "Minimal Packaging: Focuses on fresh, local ingredients to avoid heavily packaged products."
-        ],
-        "sustainability_ratings": {
-          "water_usage": 4,
-          "energy_impact": 5,
-          "waste_consideration": 5
-        }
-      },
-      {
-        "name": "Okro Soup",
-        "image": "images/okro_soup.png",
-        "short_description": "A sustainable take on the classic Nigerian dish, featuring plant-based proteins, seasonal okra, and eco-friendly practices.",
-        "time": "35 mins",
-        "calories": "160 cal",
-        "ingredients": [
-          { "item": "fresh okra", "quantity": "2 cups (locally grown and in season)" },
-          { "item": "palm oil", "quantity": "2 tablespoons (sustainably sourced, or olive oil as an alternative)" },
-          { "item": "onion", "quantity": "1, chopped (local and in season)" },
-          { "item": "garlic", "quantity": "2 cloves, minced" },
-          { "item": "bell pepper", "quantity": "1 small, chopped (or seasonal peppers)" },
-          { "item": "tomatoes", "quantity": "2, blended (or canned if fresh is unavailable)" },
-          { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or substitute with nutritional yeast)" },
-          { "item": "ground pepper", "quantity": "1 teaspoon (or to taste)" },
-          { "item": "dried thyme", "quantity": "1 teaspoon (or fresh if available)" },
-          { "item": "vegetable broth", "quantity": "2 cups (preferably homemade)" },
-          { "item": "cooked beans", "quantity": "1 cup (black-eyed peas, kidney beans, or chickpeas)" },
-          { "item": "tofu or tempeh", "quantity": "1/2 cup (optional, for added protein)" },
-          { "item": "salt", "quantity": "to taste" },
-          { "item": "fresh herbs", "quantity": "1/4 cup (parsley or cilantro, optional, for garnish)" },
-          { "item": "roasted peanuts or groundnut paste", "quantity": "1/4 cup (optional, for added richness)" }
-        ],
-        "instructions": [
-          "Wash the okra thoroughly. Slice or chop the okra into small pieces, or blend lightly for a smoother texture.",
-          "Heat palm oil (or olive oil) in a large pot over medium heat. Sauté onions and garlic for 2-3 minutes until softened.",
-          "Add chopped bell pepper and cook for 2 minutes. Stir in blended tomatoes, ground crayfish (or nutritional yeast), ground pepper, and thyme. Cook for 5-7 minutes until thick and fragrant.",
-          "Add cooked beans and tofu (or tempeh) to the pot. Stir and cook for 5-7 minutes to incorporate flavors.",
-          "Pour in the vegetable broth, bring to a simmer, and cook for 10 minutes to blend flavors.",
-          "Add chopped okra and cook for 5-7 minutes, allowing it to thicken the soup naturally. Adjust the consistency by adding more okra or cooking longer.",
-          "Taste and adjust seasoning with salt, pepper, or additional broth. Stir in roasted peanuts or groundnut paste if desired for extra richness.",
-          "Serve hot with your preferred side dish, such as rice, fufu, pounded yam, or boiled plantains."
-        ],
-        "why_this_recipe_is_sustainable": [
-          "Plant-Based Protein: Beans, tofu, or tempeh replace meat, reducing the environmental footprint.",
-          "Local and Seasonal Ingredients: Emphasizes local, seasonal produce like okra and tomatoes to reduce food miles.",
-          "Homemade Broth: Encourages broth made from kitchen scraps to reduce waste and packaging.",
-          "Sustainable Palm Oil: Suggests sustainably sourced palm oil or olive oil to protect biodiversity.",
-          "Waste Reduction: Promotes repurposing leftovers and scraps, reducing food and packaging waste.",
-          "Minimal Packaging: Focuses on fresh ingredients to reduce reliance on packaged goods."
-        ],
-        "sustainability_ratings": {
-          "water_usage": 4,
-          "energy_impact": 5,
-          "waste_consideration": 5
-        }
-      },
-      {
-        "name": "Beans (Ewa Agoyin)",
-        "image": "images/beans.png",
-        "short_description": "A sustainable version of the classic Nigerian mashed beans dish, paired with a spicy, flavorful sauce and optional plantains.",
-        "time": "35 mins",
-        "calories": "347 cal",
-        "ingredients": [
-          { "item": "dried black-eyed peas or preferred beans", "quantity": "2 cups (locally grown and in season)" },
-          { "item": "palm oil", "quantity": "1 tablespoon (sustainably sourced, or olive oil as an alternative)" },
-          { "item": "onion", "quantity": "1 large, chopped (local and in season)" },
-          { "item": "garlic", "quantity": "2-3 cloves, minced" },
-          { "item": "tomatoes", "quantity": "2 medium, chopped (or canned if fresh is unavailable)" },
-          { "item": "scotch bonnet peppers", "quantity": "1-2 (adjust to spice level)" },
-          { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or nutritional yeast for umami flavor)" },
-          { "item": "ground pepper", "quantity": "1 teaspoon (or to taste)" },
-          { "item": "dried thyme", "quantity": "1 teaspoon (or fresh if available)" },
-          { "item": "soy sauce or tamari", "quantity": "1 tablespoon (low-sodium)" },
-          { "item": "salt", "quantity": "to taste" },
-          { "item": "plantains", "quantity": "2-3 medium-sized (optional, for a side dish)" },
-          { "item": "vegetable broth", "quantity": "1-2 cups (homemade for reduced waste, or water)" },
-          { "item": "fresh herbs", "quantity": "optional, for garnish" }
-        ],
-        "instructions": [
-          "Rinse the beans thoroughly and cook in a pot of water for 30-40 minutes until tender. Drain and set aside. If using canned beans, drain and rinse before use.",
-          "In a frying pan, heat palm oil (or olive oil) over medium heat. Sauté onions and garlic for 2-3 minutes until softened.",
-          "Add chopped tomatoes, ground crayfish (or nutritional yeast), scotch bonnet peppers, ground pepper, and thyme. Cook for 5-7 minutes until the sauce thickens and oil separates. Add vegetable broth or water to loosen if necessary.",
-          "Mash the cooked beans to your preferred consistency, either smooth or chunky.",
-          "Add the mashed beans to the sauce and stir to combine. Cook for 5 minutes to allow flavors to meld. Stir in soy sauce and salt to taste, adding broth or water for a creamier texture if desired.",
-          "If serving with plantains, peel and slice them. Fry in a separate pan with oil until golden and crispy. Drain excess oil on a paper towel.",
-          "Serve the Ewa Agoyin with fried plantains or bread, garnished with fresh herbs if desired."
-        ],
-        "why_this_recipe_is_sustainable": [
-          "Plant-Based Protein: Beans provide a nutrient-dense, plant-based protein source with a lower environmental impact than animal proteins.",
-          "Local and Seasonal Ingredients: Emphasizes local, seasonal produce like beans, onions, and peppers to support local agriculture and reduce food miles.",
-          "Minimal Waste: Encourages using fresh ingredients and homemade vegetable broth to minimize packaging waste and food waste.",
-          "Sustainable Palm Oil: Recommends sustainably sourced palm oil to prevent deforestation, with olive oil as an eco-friendly alternative.",
-          "Reducing Packaging Waste: Uses fresh beans and vegetables to reduce reliance on packaged, processed foods.",
-          "Optional Sides: Includes locally grown plantains as an optional, low-impact side dish, with baked plantains or other alternatives for variety."
-        ],
-        "sustainability_ratings": {
-          "water_usage": 4,
-          "energy_impact": 5,
-          "waste_consideration": 5
-        }
+  "recipes": [
+    {
+      "name": "Jollof Rice",
+      "image": "images/jollof_rice.png",
+      "short_description": "Jollof Rice is a popular and flavorful West African dish that is typically made with rice, tomatoes, onions, and a variety of seasonings. To make it more sustainable, you can focus on using local, seasonal ingredients, minimizing food waste, and incorporating plant-based or low-impact proteins. Below is a sustainable Jollof Rice recipe.",
+      "time": "45 mins",
+      "file": "jollof_rice.html",
+      "calories": "285 cal",
+      "ingredients": [
+        { "item": "long-grain parboiled rice", "quantity": "2 cups" },
+        { "item": "diced tomatoes", "quantity": "14 oz (1 can)" },
+        { "item": "onion", "quantity": "1, chopped" },
+        { "item": "bell pepper", "quantity": "1, chopped" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "fresh ginger", "quantity": "1 tablespoon, minced" },
+        { "item": "vegetable oil", "quantity": "1/4 cup" },
+        { "item": "tomato paste", "quantity": "1 tablespoon" },
+        { "item": "thyme", "quantity": "1 teaspoon" },
+        { "item": "curry powder", "quantity": "1 teaspoon" },
+        { "item": "paprika", "quantity": "1 teaspoon" },
+        { "item": "bay leaf", "quantity": "1" },
+        { "item": "vegetable broth", "quantity": "2 cups" },
+        { "item": "soy sauce or tamari (optional)", "quantity": "1 tablespoon" },
+        { "item": "mixed vegetables (peas, carrots, green beans)", "quantity": "1 cup" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "pepper", "quantity": "to taste" },
+        { "item": "fresh cilantro or parsley (optional)", "quantity": "for garnish" }
+      ],
+      "instructions": [
+        "Rinse the rice thoroughly under cold water to remove excess starch. Drain and set aside.",
+        "In a blender, combine the diced tomatoes, onion, bell pepper, garlic, and ginger. Blend until smooth.",
+        "In a large pot or Dutch oven, heat the vegetable oil over medium heat. Add the tomato paste and cook for 1-2 minutes. Then, pour in the blended tomato mixture. Stir well and let it cook for 10-15 minutes to thicken.",
+        "Stir in the thyme, curry powder, paprika, bay leaf, soy sauce (if using), salt, and pepper. Let simmer for 5 minutes.",
+        "Add the rinsed rice and stir to coat in the tomato sauce. Pour in the vegetable broth and stir again. Bring to a simmer.",
+        "Cover the pot and reduce heat to low. Cook for 20-30 minutes, stirring occasionally. Add more broth if needed until rice is tender and liquid is absorbed.",
+        "About 10 minutes before the rice is done, stir in the seasonal vegetables. Cover and let them cook with the rice until tender.",
+        "Taste and adjust seasonings if necessary. Remove the bay leaf before serving.",
+        "Garnish with fresh cilantro or parsley, if desired, and serve."
+      ],
+      "why_this_recipe_is_sustainable": [
+      "Seasonal and Local Ingredients: By using fresh or local vegetables and making your own vegetable broth, you reduce food miles and packaging waste.",
+      "Plant-Based: The dish is naturally plant-based, which is generally more sustainable than animal-based alternatives. It also allows you to add more vegetables and legumes for additional protein.",
+      "Rice: Parboiled rice is often produced sustainably, but choosing a local variety helps reduce environmental impact. If possible, seek out rice brands that support ethical farming practices.",
+      "Minimal Waste: The use of leftover or seasonal vegetables helps minimize food waste. You can also store any leftover rice for the next day."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 3
       }
-    ]
-  }
+    },
+    {
+      "name": "Pasta",
+      "image": "images/pasta.png",
+      "short_description": "Here’s a sustainable Pasta recipe that focuses on plant-based ingredients, minimizes food waste, and uses locally sourced and seasonal vegetables to create a flavorful dish. This recipe is simple, healthy, and reduces environmental impact while still being delicious. Sustainable Pasta Primavera with Seasonal Vegetables",
+      "time": "30 mins",
+      "file": "pasta.html",
+      "calories": "131 cal",
+      "ingredients": [
+        { "item": "whole wheat pasta", "quantity": "8 oz (about 225g)" },
+        { "item": "olive oil", "quantity": "1 tablespoon, extra virgin, sustainably sourced" },
+        { "item": "zucchini", "quantity": "1, sliced (or any seasonal squash)" },
+        { "item": "cherry tomatoes", "quantity": "1 cup, halved (or other in-season tomatoes)" },
+        { "item": "bell pepper", "quantity": "1, chopped" },
+        { "item": "asparagus", "quantity": "1 small bunch, trimmed and cut into 2-inch pieces (or green beans)" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "lemon juice", "quantity": "1 tablespoon (or zest for more flavor)" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "pepper", "quantity": "to taste" },
+        { "item": "basil or parsley", "quantity": "chopped (for garnish)" },
+        { "item": "nutritional yeast", "quantity": "1/4 cup (optional, for a cheesy flavor)" },
+        { "item": "Parmesan cheese", "quantity": "1/4 cup (optional)" },
+        { "item": "roasted sunflower seeds or pine nuts", "quantity": "1/4 cup (optional for added crunch)" }
+      ],
+      "instructions": [
+        "Cook the whole wheat pasta in a large pot of salted water until al dente (about 9-12 minutes).",
+        "Drain the pasta, reserving 1/2 cup of the pasta water. Set the pasta aside.",
+        "Heat olive oil in a large skillet over medium heat. Add zucchini, bell pepper, and asparagus (or green beans). Sauté for 5-7 minutes until tender but crisp.",
+        "Add cherry tomatoes and garlic, cooking for another 2 minutes until tomatoes soften.",
+        "Add the drained pasta to the skillet with vegetables. Toss to combine, adding the reserved pasta water to help the sauce come together.",
+        "Stir in lemon juice (or zest) and season with salt and pepper to taste.",
+        "Remove from heat and toss in fresh basil or parsley. Optionally, add nutritional yeast or Parmesan, and top with roasted sunflower seeds or pine nuts.",
+        "Serve warm."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Whole Wheat Pasta: Whole wheat pasta is a healthier option with more fiber and nutrients. It’s also typically produced with less processing than white pasta, making it more environmentally friendly.",
+        "Seasonal Vegetables: This dish uses seasonal and local vegetables like zucchini, cherry tomatoes, bell peppers, and asparagus. Choosing seasonal produce helps reduce food miles and supports local farming.",
+        "Plant-Based: By using only vegetables, this pasta dish is entirely plant-based, which generally has a smaller environmental footprint compared to meat-based dishes.",
+        "Minimal Food Waste: The recipe is flexible, allowing you to use whatever vegetables are in season or leftover from other meals. You can also repurpose vegetable scraps (e.g., stems, peels) into homemade vegetable broth for future use.",
+        "Sustainable Olive Oil: Using olive oil from sustainably sourced producers supports environmentally friendly farming practices."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 3
+      }
+    },
+    {
+      "name": "Fried Rice",
+      "image": "images/fried_rice.png",
+      "short_description": "This Sustainable Fried Rice recipe focuses on using leftover rice, seasonal vegetables, and plant-based ingredients. It is versatile, reduces food waste, and is both healthy and delicious.",
+      "time": "125 mins",
+      "file": "fried_rice.html",
+      "calories": "163 cal",
+      "ingredients": [
+        { "item": "leftover cooked rice", "quantity": "2 cups (preferably a day old)" },
+        { "item": "vegetable oil", "quantity": "1 tablespoon (or sustainably sourced oil)" },
+        { "item": "onion", "quantity": "1, diced" },
+        { "item": "carrot", "quantity": "1, diced or julienned (or any seasonal root vegetable)" },
+        { "item": "peas", "quantity": "1/2 cup (fresh, frozen, or leftover)" },
+        { "item": "bell pepper", "quantity": "1/2 cup, diced (or any seasonal vegetable like zucchini or cabbage)" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "soy sauce or tamari", "quantity": "2 tablespoons (low-sodium option for healthier dish)" },
+        { "item": "sesame oil", "quantity": "1 tablespoon (optional, for extra flavor)" },
+        { "item": "ground ginger", "quantity": "1/4 teaspoon (or fresh ginger, minced)" },
+        { "item": "green onions", "quantity": "1-2, sliced (for garnish)" },
+        { "item": "rice vinegar or lime juice", "quantity": "1 tablespoon (for added tang)" },
+        { "item": "cilantro", "quantity": "1/4 cup, fresh (optional, for garnish)" },
+        { "item": "nuts or seeds", "quantity": "1/4 cup (optional, such as roasted sunflower seeds or peanuts)" },
+        { "item": "eggs", "quantity": "1-2 (optional, for added protein, or tofu for a plant-based version)" }
+      ],
+      "instructions": [
+        "If you don't have leftover rice, cook rice ahead of time and let it cool completely. Ideally, use day-old rice for better texture when frying.",
+        "Heat the vegetable oil in a large skillet or wok over medium heat. Add the diced onion and cook for 3-4 minutes until softened.",
+        "Add the carrots and bell pepper (or other seasonal vegetables) and cook for an additional 4-5 minutes, stirring occasionally.",
+        "Add the garlic and ginger and cook for another 1-2 minutes until fragrant.",
+        "Push the vegetables to one side of the pan. If you're using eggs, crack them into the empty space and scramble them until fully cooked. If using tofu, crumble and cook it until golden in the same manner.",
+        "Add the cold, leftover rice to the pan, breaking up any clumps. Stir to mix the rice with the vegetables and eggs/tofu.",
+        "Add the soy sauce, sesame oil (if using), and rice vinegar or lime juice. Stir to coat the rice evenly in the sauces.",
+        "Taste the fried rice and adjust seasoning with additional soy sauce, salt, or pepper if needed.",
+        "Once everything is well mixed and heated through, remove from heat and serve.",
+        "Garnish with green onions, fresh cilantro, and optional nuts or seeds for extra crunch. Serve warm as a main dish or as a side with other plant-based dishes."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Leftover Rice: Using leftover rice helps reduce food waste. If you have any rice from previous meals, repurposing it into fried rice is an excellent way to make use of it.",
+        "Seasonal Vegetables: This recipe is very flexible—use what vegetables are in season in your area, such as zucchini, cabbage, spinach, or peas. Buying seasonal produce lowers the carbon footprint and supports local farmers.",
+        "Plant-Based: Fried rice can easily be made plant-based by using tofu (instead of eggs) or skipping the eggs entirely. Plant-based meals have a smaller environmental footprint compared to animal-based ones.",
+        "Minimal Packaging: By using fresh, local vegetables and pantry staples, this recipe avoids excessive packaging and processed foods.",
+        "Customizable: You can add any leftover veggies, grains, or plant-based protein, making this recipe great for reducing food waste and utilizing whatever you have in your fridge."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 4,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Pilaf",
+      "image": "images/pilaf.png",
+      "short_description": "A Sustainable Vegetable Pilaf using whole grains, seasonal vegetables, and plant-based ingredients to create a flavorful and eco-friendly dish.",
+      "time": "35 mins",
+      "file": "pilaf.html",
+      "calories": "359 cal",
+      "ingredients": [
+        { "item": "brown rice", "quantity": "1 cup (or any locally sourced whole grain like quinoa, farro, or barley)" },
+        { "item": "olive oil", "quantity": "2 tablespoons (extra virgin and sustainably sourced)" },
+        { "item": "onion", "quantity": "1, chopped (local and in season)" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "carrot", "quantity": "1, diced (or any seasonal root vegetable)" },
+        { "item": "bell pepper", "quantity": "1, diced (or other seasonal vegetables like zucchini or eggplant)" },
+        { "item": "peas", "quantity": "1/2 cup (fresh or frozen, or any other green veggie like green beans)" },
+        { "item": "thyme", "quantity": "1 teaspoon (dried or fresh if available)" },
+        { "item": "ground cumin", "quantity": "1 teaspoon (or another preferred spice like coriander or turmeric)" },
+        { "item": "bay leaf", "quantity": "1" },
+        { "item": "vegetable broth", "quantity": "2 cups (preferably homemade or low-sodium)" },
+        { "item": "salt and pepper", "quantity": "to taste" },
+        { "item": "fresh herbs", "quantity": "1/4 cup chopped (like parsley, cilantro, or mint)" },
+        { "item": "toasted nuts or seeds", "quantity": "Optional (like sunflower seeds, almonds, or pine nuts)" }
+      ],
+      "instructions": [
+        "Rinse the brown rice under cold water to remove excess starch. Drain and set aside.",
+        "Heat the olive oil in a large pot or deep skillet over medium heat. Add the chopped onion and cook for 3-4 minutes until softened.",
+        "Add the garlic, carrots, and bell pepper (or other seasonal vegetables). Cook for 5-7 minutes, stirring occasionally, until the vegetables are softened and slightly caramelized.",
+        "Add the thyme, cumin, bay leaf, salt, and pepper to the vegetables. Stir to coat the vegetables in the spices, and let the spices cook for a minute to enhance their aroma.",
+        "Add the rinsed rice to the pot, stirring to mix it with the vegetables and spices.",
+        "Pour in the vegetable broth, bring to a boil, then reduce the heat to low. Cover the pot and simmer for 35-40 minutes, or until the rice is cooked and the liquid has been absorbed. Adjust cooking time for different grains as needed.",
+        "About 5 minutes before the rice is done cooking, stir in the peas (or other green vegetables). Cover again and allow them to steam until the rice is cooked through.",
+        "Once the rice is cooked, remove the pot from heat and let it sit, covered, for 5 minutes. Remove the bay leaf and fluff the rice with a fork.",
+        "Stir in the chopped fresh herbs and adjust seasoning if needed.",
+        "Serve the pilaf warm as a main dish or a side. Garnish with toasted nuts or seeds for added texture."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Whole Grains: Using whole grains like brown rice, quinoa, or barley provides more nutrients and is less processed, reducing environmental impact.",
+        "Seasonal and Local Vegetables: This recipe adapts to what’s in season and local, lowering food miles and supporting local farming.",
+        "Plant-Based: Entirely plant-based, this dish has a smaller carbon footprint than meat-based dishes.",
+        "Homemade Broth: Using homemade vegetable broth from scraps reduces waste and avoids packaged alternatives.",
+        "Minimal Waste: Encourages using leftovers and seasonal produce to reduce food waste.",
+        "Energy Efficient Cooking: Brown rice, when cooked with the lid on, retains heat well, reducing energy usage."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Yam Porridge",
+      "image": "images/porridge_yam.png",
+      "short_description": "A comforting and nutritious dish featuring yam, vegetables, and plant-based seasonings, made sustainably with locally sourced ingredients.",
+      "time": "40 mins",
+      "calories": "189 cal",
+      "ingredients": [
+        { "item": "yam", "quantity": "2 medium-sized (locally sourced if possible)" },
+        { "item": "palm oil", "quantity": "1 tablespoon (sustainably sourced, or substitute with olive oil)" },
+        { "item": "onion", "quantity": "1, chopped (local and in season)" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "bell pepper", "quantity": "1 small, chopped (or other seasonal vegetables)" },
+        { "item": "tomatoes", "quantity": "1-2, chopped (or 1/2 cup canned tomatoes)" },
+        { "item": "thyme", "quantity": "1 teaspoon (dried or fresh if available)" },
+        { "item": "ground pepper", "quantity": "1/2 teaspoon (or to taste)" },
+        { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or substitute with nutritional yeast)" },
+        { "item": "ground ginger", "quantity": "1 teaspoon (optional)" },
+        { "item": "vegetable broth", "quantity": "1 cup (homemade or low-sodium)" },
+        { "item": "spinach", "quantity": "1/2 cup (or other leafy greens like kale)" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "fresh herbs", "quantity": "1/4 cup (optional, like parsley or cilantro)" },
+        { "item": "roasted peanuts", "quantity": "1/4 cup (optional, for crunch and protein)" }
+      ],
+      "instructions": [
+        "Peel the yams and cut them into medium cubes. Rinse well and set aside.",
+        "In a large pot, add the cubed yam and enough water to cover them. Bring to a boil, then reduce heat and simmer for 10-15 minutes, or until the yams are soft but still hold their shape. Drain and set aside.",
+        "In the same pot, heat the palm oil (or olive oil) over medium heat. Add the chopped onion and garlic, cooking for 2-3 minutes until softened.",
+        "Add the bell pepper, tomatoes, thyme, ground ginger, and ground pepper. Stir and cook for about 5-7 minutes until the tomatoes soften and release their juices.",
+        "Pour in the vegetable broth and bring to a simmer. Cook the vegetable mixture for an additional 5 minutes.",
+        "Add the cooked yams to the pot and stir to combine. Let the yam cook in the broth and vegetable mix for about 10 minutes to meld the flavors.",
+        "Stir in the spinach, kale, or other leafy greens, cooking for another 2-3 minutes until the greens are wilted.",
+        "Taste and adjust seasoning with salt, pepper, or additional spices as needed.",
+        "Once the porridge yam reaches the desired consistency (thick but not too dry), remove from heat.",
+        "Garnish with fresh herbs like parsley or cilantro and sprinkle roasted peanuts on top before serving."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Locally Sourced Yam: Reduces the carbon footprint by using locally grown yams.",
+        "Seasonal Vegetables: Flexible and encourages the use of seasonal vegetables like spinach, kale, or peppers.",
+        "Plant-Based: Entirely plant-based, making it eco-friendly with a smaller carbon footprint.",
+        "Homemade Broth: Reduces packaging waste and minimizes food waste by using vegetable scraps.",
+        "Minimal Waste: Encourages using leftovers and fresh ingredients to reduce food waste.",
+        "Energy Efficient: Cooking in one pot and simmering conserves energy during preparation."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Egusi Soup",
+      "image": "images/egusi_soup.png",
+      "short_description": "A rich, plant-based Nigerian soup made with egusi seeds, seasonal vegetables, and sustainable ingredients, perfect for an eco-conscious meal.",
+      "time": "80 mins",
+      "file": "egusi_soup.html",
+      "calories": "182 cal",
+      "ingredients": [
+        { "item": "ground egusi (melon seeds)", "quantity": "1 cup (locally sourced or repurposed from leftover seeds)" },
+        { "item": "palm oil", "quantity": "2 tablespoons (sustainably sourced, or substitute with olive oil)" },
+        { "item": "onion", "quantity": "1, chopped (local and in season)" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "bell pepper", "quantity": "1 small, chopped (or other seasonal vegetables)" },
+        { "item": "tomatoes", "quantity": "1-2, chopped (fresh or canned)" },
+        { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or substitute with nutritional yeast)" },
+        { "item": "vegetable broth", "quantity": "2 cups (homemade or low-sodium)" },
+        { "item": "spinach", "quantity": "1 cup (or other leafy greens like kale)" },
+        { "item": "peas", "quantity": "1/2 cup (frozen or fresh, or substitute with green beans, okra, or zucchini)" },
+        { "item": "thyme", "quantity": "1 teaspoon (dried or fresh if available)" },
+        { "item": "ground pepper", "quantity": "1 teaspoon (or to taste)" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "ground ginger", "quantity": "1/2 teaspoon (optional)" },
+        { "item": "cooked beans", "quantity": "1/2 cup (optional, for added protein)" }
+      ],
+      "instructions": [
+        "In a small bowl, mix the ground egusi with about 1/4 cup of warm water to form a thick paste. Set aside.",
+        "In a large pot, heat the palm oil (or olive oil) over medium heat. Add the chopped onion and garlic, cooking for 2-3 minutes until softened.",
+        "Add the chopped bell pepper and tomatoes. Stir and cook for 5-7 minutes until the tomatoes release their juices.",
+        "Pour in the vegetable broth and bring to a simmer. Add the ground crayfish (or nutritional yeast) for umami flavor. Season with thyme, ground pepper, and salt. Simmer for 10 minutes.",
+        "Stir the egusi paste into the soup. Cook for 10-15 minutes, stirring occasionally, until the soup thickens.",
+        "Add the leafy greens, peas, and other seasonal vegetables. Stir and cook for 5-7 minutes until the vegetables are tender.",
+        "If using cooked beans, stir them in at this stage to add protein and texture.",
+        "Taste and adjust seasoning with salt, pepper, or additional spices as needed.",
+        "Serve the soup warm with sustainable side dishes like brown rice, fufu, or pounded yam."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Locally Sourced Ingredients: Supports local farming communities and reduces food miles by using local produce like spinach and kale.",
+        "Plant-Based Option: Reduces environmental impact while maintaining a healthy, protein-rich profile with vegetables, beans, and egusi.",
+        "Homemade Broth: Encourages using kitchen scraps to reduce waste and avoid packaging.",
+        "Minimal Waste: Adapts to seasonal ingredients and leftovers, minimizing food waste.",
+        "Sustainable Palm Oil: Recommends sustainably sourced palm oil to prevent deforestation and biodiversity loss, with olive oil as an alternative.",
+        "Flexible Ingredients: Promotes sustainability by using whatever seasonal vegetables are available, reducing food waste and ensuring adaptability."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Efo Riro",
+      "image": "images/efo_riro.png",
+      "short_description": "A savory, plant-based Nigerian spinach stew made with seasonal vegetables, plant-based proteins, and sustainable ingredients.",
+      "time": "60 mins",
+      "calories": "177 cal",
+      "ingredients": [
+        { "item": "fresh spinach", "quantity": "2 cups (or local leafy greens like kale or collard greens)" },
+        { "item": "palm oil", "quantity": "1 tablespoon (sustainably sourced, or substitute with olive oil)" },
+        { "item": "onion", "quantity": "1, chopped (local and in season)" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "bell pepper", "quantity": "1 small, chopped (or other seasonal peppers)" },
+        { "item": "fresh tomatoes", "quantity": "2-3, blended (or canned if fresh is unavailable)" },
+        { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or substitute with nutritional yeast)" },
+        { "item": "dried thyme", "quantity": "1 teaspoon (or fresh if available)" },
+        { "item": "ground pepper", "quantity": "1 teaspoon (or to taste)" },
+        { "item": "ground ginger", "quantity": "1 teaspoon (optional)" },
+        { "item": "vegetable broth", "quantity": "2 cups (homemade or low-sodium)" },
+        { "item": "cooked beans", "quantity": "1 cup (optional, for protein; black-eyed peas, kidney beans, or chickpeas work well)" },
+        { "item": "soy sauce or tamari", "quantity": "1 tablespoon (low-sodium option)" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "tofu", "quantity": "1/2 cup (optional, or use other plant-based protein like tempeh)" },
+        { "item": "fresh herbs", "quantity": "1/4 cup (optional, parsley or cilantro for garnish)" }
+      ],
+      "instructions": [
+        "Wash and chop the spinach (or other leafy greens). Remove stems if using tougher greens like kale.",
+        "In a large pot, heat the palm oil (or olive oil) over medium heat. Add the chopped onions and garlic, cooking for 2-3 minutes until softened.",
+        "Add the chopped bell pepper and cook for 2 minutes. Stir in the blended tomatoes, thyme, ground pepper, ginger, and soy sauce. Cook for 5-7 minutes until the tomato mixture thickens and oil floats to the top.",
+        "Add crumbled tofu or cooked beans to the pot. Stir to combine and cook for 5-7 minutes to blend the flavors.",
+        "Pour in the vegetable broth, stir, and let simmer for 10 minutes to allow the stew to thicken slightly.",
+        "Add the chopped spinach (or other leafy greens) and stir well. Cook for 5-7 minutes until the greens are wilted and the stew reaches your desired consistency.",
+        "Taste and adjust seasoning with salt, pepper, or soy sauce as needed.",
+        "Serve hot with rice, fufu, or your preferred side dish."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Plant-Based Protein: Using tofu or beans as a protein source reduces the environmental impact compared to animal proteins, while maintaining a nutrient-rich meal.",
+        "Seasonal and Local Ingredients: Incorporates seasonal vegetables like spinach or kale, supporting local farming and reducing food miles.",
+        "Homemade Broth: Encourages making vegetable broth from kitchen scraps to minimize packaging waste and enhance sustainability.",
+        "Minimized Waste: Adapts to available leftovers (e.g., cooked greens, beans) and promotes reducing food waste.",
+        "Sustainable Palm Oil: Suggests sustainably sourced palm oil or olive oil to minimize deforestation and biodiversity impact.",
+        "Minimal Packaging: Focuses on fresh vegetables and homemade components to reduce reliance on packaged items."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Afang Soup",
+      "image": "images/afang_soup.png",
+      "short_description": "A traditional Nigerian soup adapted with plant-based proteins, seasonal greens, and sustainable practices for an eco-conscious twist.",
+      "time": "75 mins",
+      "calories": "169 cal",
+      "ingredients": [
+        { "item": "Afang leaves", "quantity": "1 cup (or substitute with spinach or lamb’s lettuce)" },
+        { "item": "waterleaf", "quantity": "2 cups (or substitute with amaranth or moringa)" },
+        { "item": "palm oil", "quantity": "2 tablespoons (sustainably sourced, or use olive oil)" },
+        { "item": "onion", "quantity": "1, chopped (local and in season)" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "bell pepper", "quantity": "1 small, chopped (or other seasonal peppers)" },
+        { "item": "tomatoes", "quantity": "1-2, blended (or canned if fresh is unavailable)" },
+        { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or substitute with nutritional yeast)" },
+        { "item": "ground pepper", "quantity": "1 teaspoon (or to taste)" },
+        { "item": "dried thyme", "quantity": "1 teaspoon (or fresh if available)" },
+        { "item": "vegetable broth", "quantity": "1-2 cups (preferably homemade)" },
+        { "item": "cooked beans", "quantity": "1 cup (black-eyed peas, kidney beans, or chickpeas)" },
+        { "item": "tofu", "quantity": "1/2 cup (optional, for protein and texture)" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "fresh herbs", "quantity": "1/4 cup (optional, parsley or cilantro for garnish)" },
+        { "item": "roasted peanuts or groundnut paste", "quantity": "1/4 cup (optional, for added richness)" }
+      ],
+      "instructions": [
+        "Wash and chop the Afang leaves and waterleaf (or substitute greens) into smaller pieces. Set them aside.",
+        "In a large pot, heat palm oil (or olive oil) over medium heat. Sauté onions and garlic for 2-3 minutes until softened.",
+        "Add chopped bell pepper and cook for another 2 minutes. Stir in blended tomatoes, ground crayfish (or nutritional yeast), ground pepper, and thyme. Cook for 5-7 minutes until the tomato mixture thickens and oil rises to the top.",
+        "Add cooked beans and tofu to the pot, stirring to combine. If using roasted peanuts or groundnut paste, add them now. Cook for an additional 5 minutes to blend flavors.",
+        "Pour in vegetable broth and simmer for 10-15 minutes, allowing the soup to thicken and flavors to meld.",
+        "Add chopped Afang leaves and waterleaf. Stir well and cook for 5-7 minutes until greens are tender.",
+        "Taste and adjust seasoning with salt, pepper, or more broth as needed.",
+        "Serve hot with rice, fufu, or any preferred side dish."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Plant-Based Protein: Beans and tofu replace meat or fish, reducing the environmental footprint.",
+        "Local and Seasonal Ingredients: Greens like spinach or amaranth reduce food miles and support local farming.",
+        "Homemade Broth: Encourages making broth from kitchen scraps to reduce packaging waste.",
+        "Sustainable Palm Oil: Suggests sustainably sourced palm oil or olive oil to minimize environmental impact.",
+        "Waste Reduction: Promotes using leftover vegetables or beans, helping reduce food waste.",
+        "Minimal Packaging: Focuses on fresh, local ingredients to avoid heavily packaged products."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Okro Soup",
+      "image": "images/okro_soup.png",
+      "short_description": "A sustainable take on the classic Nigerian dish, featuring plant-based proteins, seasonal okra, and eco-friendly practices.",
+      "time": "65 mins",
+      "calories": "160 cal",
+      "ingredients": [
+        { "item": "fresh okra", "quantity": "2 cups (locally grown and in season)" },
+        { "item": "palm oil", "quantity": "2 tablespoons (sustainably sourced, or olive oil as an alternative)" },
+        { "item": "onion", "quantity": "1, chopped (local and in season)" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "bell pepper", "quantity": "1 small, chopped (or seasonal peppers)" },
+        { "item": "tomatoes", "quantity": "2, blended (or canned if fresh is unavailable)" },
+        { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or substitute with nutritional yeast)" },
+        { "item": "ground pepper", "quantity": "1 teaspoon (or to taste)" },
+        { "item": "dried thyme", "quantity": "1 teaspoon (or fresh if available)" },
+        { "item": "vegetable broth", "quantity": "2 cups (preferably homemade)" },
+        { "item": "cooked beans", "quantity": "1 cup (black-eyed peas, kidney beans, or chickpeas)" },
+        { "item": "tofu or tempeh", "quantity": "1/2 cup (optional, for added protein)" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "fresh herbs", "quantity": "1/4 cup (parsley or cilantro, optional, for garnish)" },
+        { "item": "roasted peanuts or groundnut paste", "quantity": "1/4 cup (optional, for added richness)" }
+      ],
+      "instructions": [
+        "Wash the okra thoroughly. Slice or chop the okra into small pieces, or blend lightly for a smoother texture.",
+        "Heat palm oil (or olive oil) in a large pot over medium heat. Sauté onions and garlic for 2-3 minutes until softened.",
+        "Add chopped bell pepper and cook for 2 minutes. Stir in blended tomatoes, ground crayfish (or nutritional yeast), ground pepper, and thyme. Cook for 5-7 minutes until thick and fragrant.",
+        "Add cooked beans and tofu (or tempeh) to the pot. Stir and cook for 5-7 minutes to incorporate flavors.",
+        "Pour in the vegetable broth, bring to a simmer, and cook for 10 minutes to blend flavors.",
+        "Add chopped okra and cook for 5-7 minutes, allowing it to thicken the soup naturally. Adjust the consistency by adding more okra or cooking longer.",
+        "Taste and adjust seasoning with salt, pepper, or additional broth. Stir in roasted peanuts or groundnut paste if desired for extra richness.",
+        "Serve hot with your preferred side dish, such as rice, fufu, pounded yam, or boiled plantains."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Plant-Based Protein: Beans, tofu, or tempeh replace meat, reducing the environmental footprint.",
+        "Local and Seasonal Ingredients: Emphasizes local, seasonal produce like okra and tomatoes to reduce food miles.",
+        "Homemade Broth: Encourages broth made from kitchen scraps to reduce waste and packaging.",
+        "Sustainable Palm Oil: Suggests sustainably sourced palm oil or olive oil to protect biodiversity.",
+        "Waste Reduction: Promotes repurposing leftovers and scraps, reducing food and packaging waste.",
+        "Minimal Packaging: Focuses on fresh ingredients to reduce reliance on packaged goods."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Beans (Ewa Agoyin)",
+      "image": "images/beans.png",
+      "short_description": "A sustainable version of the classic Nigerian mashed beans dish, paired with a spicy, flavorful sauce and optional plantains.",
+      "time": "120 mins",
+      "file": "beans_(ewa_agoyin).html",
+      "calories": "347 cal",
+      "ingredients": [
+        { "item": "dried black-eyed peas or preferred beans", "quantity": "2 cups (locally grown and in season)" },
+        { "item": "palm oil", "quantity": "1 tablespoon (sustainably sourced, or olive oil as an alternative)" },
+        { "item": "onion", "quantity": "1 large, chopped (local and in season)" },
+        { "item": "garlic", "quantity": "2-3 cloves, minced" },
+        { "item": "tomatoes", "quantity": "2 medium, chopped (or canned if fresh is unavailable)" },
+        { "item": "scotch bonnet peppers", "quantity": "1-2 (adjust to spice level)" },
+        { "item": "ground crayfish", "quantity": "1 tablespoon (optional, or nutritional yeast for umami flavor)" },
+        { "item": "ground pepper", "quantity": "1 teaspoon (or to taste)" },
+        { "item": "dried thyme", "quantity": "1 teaspoon (or fresh if available)" },
+        { "item": "soy sauce or tamari", "quantity": "1 tablespoon (low-sodium)" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "plantains", "quantity": "2-3 medium-sized (optional, for a side dish)" },
+        { "item": "vegetable broth", "quantity": "1-2 cups (homemade for reduced waste, or water)" },
+        { "item": "fresh herbs", "quantity": "optional, for garnish" }
+      ],
+      "instructions": [
+        "Rinse the beans thoroughly and cook in a pot of water for 30-40 minutes until tender. Drain and set aside. If using canned beans, drain and rinse before use.",
+        "In a frying pan, heat palm oil (or olive oil) over medium heat. Sauté onions and garlic for 2-3 minutes until softened.",
+        "Add chopped tomatoes, ground crayfish (or nutritional yeast), scotch bonnet peppers, ground pepper, and thyme. Cook for 5-7 minutes until the sauce thickens and oil separates. Add vegetable broth or water to loosen if necessary.",
+        "Mash the cooked beans to your preferred consistency, either smooth or chunky.",
+        "Add the mashed beans to the sauce and stir to combine. Cook for 5 minutes to allow flavors to meld. Stir in soy sauce and salt to taste, adding broth or water for a creamier texture if desired.",
+        "If serving with plantains, peel and slice them. Fry in a separate pan with oil until golden and crispy. Drain excess oil on a paper towel.",
+        "Serve the Ewa Agoyin with fried plantains or bread, garnished with fresh herbs if desired."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Plant-Based Protein: Beans provide a nutrient-dense, plant-based protein source with a lower environmental impact than animal proteins.",
+        "Local and Seasonal Ingredients: Emphasizes local, seasonal produce like beans, onions, and peppers to support local agriculture and reduce food miles.",
+        "Minimal Waste: Encourages using fresh ingredients and homemade vegetable broth to minimize packaging waste and food waste.",
+        "Sustainable Palm Oil: Recommends sustainably sourced palm oil to prevent deforestation, with olive oil as an eco-friendly alternative.",
+        "Reducing Packaging Waste: Uses fresh beans and vegetables to reduce reliance on packaged, processed foods.",
+        "Optional Sides: Includes locally grown plantains as an optional, low-impact side dish, with baked plantains or other alternatives for variety."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Eba and Ogbono Soup",
+      "image": "images/eba_ogbono_soup.png",
+      "short_description": "Eba is a classic Nigerian dish made from garri (cassava flour), typically served with a rich, hearty soup. Ogbono Soup (wild mango seed soup) is a flavorful, thick soup often made with meats, fish, and palm oil. This sustainable version focuses on plant-based ingredients, reducing food waste, and using eco-friendly sources while maintaining its deliciousness.",
+      "time": "35 mins",
+      "file": "eba_ogbono_soup.html",
+      "calories": "347 cal",
+      "ingredients": [
+        { "item": "garri (cassava flour)", "quantity": "2 cups" },
+        { "item": "hot water", "quantity": "3 cups" },
+        { "item": "sustainably sourced palm oil or olive oil", "quantity": "2 tablespoons" },
+        { "item": "onion", "quantity": "1 large, chopped" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "tomatoes", "quantity": "2 medium, chopped" },
+        { "item": "scotch bonnet peppers", "quantity": "1-2, chopped (adjust to spice level)" },
+        { "item": "ground ogbono (wild mango seeds)", "quantity": "1 tablespoon" },
+        { "item": "ground crayfish (or nutritional yeast)", "quantity": "1 tablespoon" },
+        { "item": "ground pepper", "quantity": "1 teaspoon" },
+        { "item": "dried thyme", "quantity": "1 teaspoon" },
+        { "item": "vegetable broth", "quantity": "2 cups" },
+        { "item": "cooked beans (black-eyed peas, kidney beans, or chickpeas)", "quantity": "1 cup" },
+        { "item": "tofu or tempeh (optional)", "quantity": "1/2 cup" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "fresh herbs (parsley or cilantro, optional)", "quantity": "for garnish" }
+      ],
+      "instructions": [
+        "Bring 3 cups of water to a boil in a medium-sized pot.",
+        "Gradually add the garri to the boiling water, stirring continuously to avoid lumps.",
+        "Stir until smooth and thick. Adjust water as needed for preferred consistency.",
+        "Mold the eba into a smooth, round shape and set aside.",
+        "In a large pot, heat the sustainably sourced palm oil (or olive oil) over medium heat.",
+        "Add chopped onions and minced garlic, sautéing for 2-3 minutes until softened.",
+        "Add chopped tomatoes, scotch bonnet peppers, ground ogbono, ground crayfish (or nutritional yeast), ground pepper, and thyme. Cook for 5-7 minutes until fragrant.",
+        "Stir occasionally, adding a small amount of vegetable broth if needed to prevent burning.",
+        "Add cooked beans and tofu (or tempeh), stirring well.",
+        "Pour in the vegetable broth and bring to a simmer. Cook for 10-15 minutes, allowing flavors to blend.",
+        "Add salt to taste and adjust consistency with more broth or water if needed.",
+        "Serve the Ogbono soup with the Eba, garnished with fresh herbs if desired."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Plant-Based Protein: Using beans and tofu reduces the environmental impact of animal-based proteins while providing essential fiber and nutrients.",
+        "Local and Seasonal Ingredients: Emphasizing locally sourced ingredients supports farmers and reduces carbon footprint.",
+        "Minimal Waste: Homemade vegetable broth from kitchen scraps reduces food waste, and vegetable peelings can be composted.",
+        "Sustainable Palm Oil: If using palm oil, opt for sustainably sourced varieties to prevent deforestation, or substitute with olive oil.",
+        "Reducing Packaging Waste: Fresh ingredients and homemade broth minimize reliance on packaged goods, reducing waste.",
+        "Optional Sides: Eba can be complemented with roasted plantains, a nutritious, locally grown, and sustainable option."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 4,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Akara",
+      "image": "images/akara.png",
+      "short_description": "Akara is crunchy on the outside and soft on the inside, making it a savory, satisfying treat. It’s an iconic dish in Nigerian and West African cuisine and is often served with a spicy sauce or as a filling accompaniment to other meals.",
+      "time": "35 mins",
+      "file": "akara.html",
+      "calories": "347 cal",
+      "ingredients": [
+        { "item": "dried black-eyed peas (or any preferred beans)", "quantity": "2 cups" },
+        { "item": "olive oil (or sustainably sourced vegetable oil)", "quantity": "1 tablespoon" },
+        { "item": "onion (chopped, local and in season)", "quantity": "1 large" },
+        { "item": "garlic (minced)", "quantity": "2-3 cloves" },
+        { "item": "scotch bonnet peppers (adjust to spice level)", "quantity": "1-2" },
+        { "item": "ground cumin (optional, for extra flavor)", "quantity": "1 teaspoon" },
+        { "item": "ground turmeric (optional, for color)", "quantity": "1 teaspoon" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "baking powder (for fluffiness)", "quantity": "1 teaspoon" },
+        { "item": "nutritional yeast (or ground crayfish, optional)", "quantity": "1 tablespoon" },
+        { "item": "water (for blending)", "quantity": "1-2 cups" },
+        { "item": "fresh parsley or cilantro (optional, for garnish)", "quantity": "1 tablespoon" },
+        { "item": "olive oil (for brushing, optional)", "quantity": "1-2 tablespoons" },
+        { "item": "ground pepper or paprika (optional, for additional flavor)", "quantity": "a pinch" }
+      ],
+      "instructions": [
+        "Rinse the dried black-eyed peas thoroughly. Soak them in water for 4-6 hours or overnight to soften.",
+        "After soaking, rub the beans between your hands or with a clean cloth to remove the skins. Rinse the beans after peeling.",
+        "In a blender or food processor, combine the soaked and peeled beans, chopped onion, minced garlic, and scotch bonnet peppers. Add water gradually to achieve a thick paste.",
+        "If using cumin, turmeric, or nutritional yeast/ground crayfish, add them to the blender along with salt to taste. Blend until smooth.",
+        "Add baking powder to the mixture and stir well to incorporate.",
+        "Preheat your oven to 375°F (190°C) or prepare a large frying pan if frying the akara.",
+        "Form small balls or patties from the bean mixture using your hands or a spoon and place them on a parchment-lined baking sheet or in the frying pan.",
+        "For baking: Brush the akara patties lightly with olive oil and bake for 25-30 minutes, flipping halfway through.",
+        "For frying: Heat oil in a frying pan over medium heat and fry the akara patties in batches until golden brown and crispy on both sides. Remove from the oil and drain on paper towels.",
+        "Serve warm with a side of spicy tomato sauce or dipping sauce of your choice. Garnish with fresh parsley or cilantro if desired."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Plant-Based Protein: Beans are nutrient-dense and provide essential fiber and protein without the heavy carbon footprint of animal protein.",
+        "Local and Seasonal Ingredients: Using locally grown beans, onions, and peppers reduces transportation emissions and supports local farmers.",
+        "Minimal Waste: Encourages making vegetable broth from kitchen scraps and storing leftover akara for future use, minimizing waste.",
+        "Alternative Cooking Methods: Baking instead of frying reduces oil usage, making the recipe healthier and more eco-friendly.",
+        "Sustainable Oil Use: Using olive oil or sustainably sourced vegetable oil helps minimize environmental harm.",
+        "Reducing Packaging Waste: Using dried beans instead of canned beans reduces packaging waste, especially if bought in bulk.",
+        "Optional Plant-Based Umami: Nutritional yeast provides a plant-based alternative to ground crayfish, keeping the dish vegan-friendly."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 3,
+        "energy_impact": 4,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Gizdodo",
+      "image": "images/gizdodo.png",
+      "short_description": "Gizdodo is a popular Nigerian dish made with fried plantains and spicy gizzards. The gizzards are typically marinated and fried, then mixed with sautéed onions, peppers, and tomatoes, creating a savory, flavorful dish. The combination of tender gizzards and sweet plantains offers a balance of protein and carbohydrates, often served as a side or main dish.",
+      "time": "35 mins",
+      "file": "gizdodo.html",
+      "calories": "347 cal",
+      "ingredients": [
+        { "item": "chicken breasts (or plant-based alternative like tofu or tempeh)", "quantity": "2 medium-sized" },
+        { "item": "ripe plantains (local and in season)", "quantity": "4" },
+        { "item": "olive oil (or sustainably sourced vegetable oil)", "quantity": "1 tablespoon" },
+        { "item": "onion (chopped, local and in season)", "quantity": "1 large" },
+        { "item": "garlic (minced)", "quantity": "2-3 cloves" },
+        { "item": "tomatoes (chopped, or canned if fresh is out of season)", "quantity": "2 medium" },
+        { "item": "scotch bonnet peppers (adjust to spice level)", "quantity": "1-2" },
+        { "item": "ground crayfish (optional, or nutritional yeast for a plant-based umami flavor)", "quantity": "1 tablespoon" },
+        { "item": "ground pepper", "quantity": "1 teaspoon" },
+        { "item": "dried thyme (or fresh if available)", "quantity": "1 teaspoon" },
+        { "item": "soy sauce or tamari (low-sodium for health and flavor)", "quantity": "1 tablespoon" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "vegetable broth (homemade for reduced waste, or water)", "quantity": "1-2 cups" },
+        { "item": "fresh herbs (optional, for garnish)", "quantity": "1 tablespoon" }
+      ],
+      "instructions": [
+        "Peel and slice the plantains into round or diagonal pieces. Heat some oil in a frying pan over medium heat and fry the plantain slices until golden brown and crispy on both sides. Once fried, set them aside on paper towels to drain excess oil.",
+        "If using chicken, cut it into bite-sized cubes. Heat some oil in a separate frying pan and cook the chicken until golden brown and cooked through. If using tofu or tempeh, cube and sauté in oil until crispy and golden. Set aside.",
+        "In the same pan used for the chicken (or separately if preferred), add a tablespoon of oil and sauté the chopped onions and minced garlic for 2-3 minutes until softened.",
+        "Add the chopped tomatoes, ground crayfish (or nutritional yeast), scotch bonnet peppers, ground pepper, and thyme. Cook for 5-7 minutes until the sauce thickens and the oil begins to rise to the top. Stir occasionally to prevent burning. If the sauce becomes too thick, add a small amount of vegetable broth or water to loosen it.",
+        "Once the sauce is ready, add the cooked chicken (or plant-based protein) to the pan and stir to combine. Let it cook in the sauce for an additional 3-5 minutes, allowing the flavors to meld together. Add soy sauce (or tamari) and salt to taste. For a creamier texture, add a little vegetable broth or water.",
+        "Add the fried plantain slices into the pan with the chicken and sauce, stirring gently to combine. Let it cook together for another 3-4 minutes to ensure the plantains absorb the sauce, becoming flavorful and coated.",
+        "Serve the gizdodo hot, garnished with fresh herbs like parsley or cilantro, if desired."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Plant-Based Protein Alternative: By using tofu or tempeh instead of traditional animal protein, the carbon footprint of the dish is significantly reduced.",
+        "Local and Seasonal Ingredients: Plantains are locally grown and in-season, making them a more sustainable crop with lower environmental impact.",
+        "Minimal Waste: Encourages using whole, fresh ingredients and repurposing plantain skins for other uses like making snacks or chips.",
+        "Reducing Packaging Waste: Fresh plantains and vegetables reduce the reliance on pre-packaged ingredients, and homemade seasoning blends can replace store-bought condiments.",
+        "Sustainable Oil Use: Opting for sustainably sourced palm oil or alternatives like olive or sunflower oil minimizes environmental harm.",
+        "Optional Plant-Based Flavor Additions: Substituting nutritional yeast for crayfish or adding smoked paprika enhances flavor while keeping the dish vegan-friendly."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 3,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Pepper Soup",
+      "image": "images/pepper_soup.png",
+      "short_description": "Pepper soup is a flavorful and spicy broth-based dish popular in Nigeria and other West African countries. It is typically made with meat (like fish, goat, or chicken) or plant-based proteins, along with a variety of aromatic spices, herbs, and vegetables. The broth is light but highly aromatic, often served as a comforting meal or appetizer.",
+      "time": "35 mins",
+      "file": "pepper_soup.html",
+      "calories": "347 cal",
+      "ingredients": [
+        { "item": "preferred protein (fish, chicken, or plant-based options like tofu or tempeh)", "quantity": "2 cups" },
+        { "item": "olive oil (or sustainably sourced vegetable oil)", "quantity": "1 tablespoon" },
+        { "item": "onion (chopped, local and in season)", "quantity": "1 large" },
+        { "item": "garlic (minced)", "quantity": "2-3 cloves" },
+        { "item": "grated ginger", "quantity": "2 tablespoons" },
+        { "item": "scotch bonnet peppers (adjust to spice level)", "quantity": "2-3" },
+        { "item": "tomatoes (chopped, or canned if fresh is out of season)", "quantity": "2 medium" },
+        { "item": "dried thyme (or fresh if available)", "quantity": "1 teaspoon" },
+        { "item": "bay leaves", "quantity": "2-3" },
+        { "item": "soy sauce or tamari (low-sodium for health and flavor)", "quantity": "1 tablespoon" },
+        { "item": "vegetable broth (homemade for reduced waste)", "quantity": "4 cups" },
+        { "item": "salt and pepper", "quantity": "to taste" },
+        { "item": "fresh herbs (optional, for garnish)", "quantity": "1 tablespoon" }
+      ],
+      "instructions": [
+        "Cut your protein into bite-sized pieces. Heat oil in a pot and brown the protein (fish, chicken, tofu, etc.) for a few minutes, then set it aside.",
+        "In the same pot, sauté the chopped onions, garlic, and ginger until softened (3-4 minutes). Add the scotch bonnet peppers and cook for another 2 minutes.",
+        "Add the tomatoes, thyme, bay leaves, and vegetable broth to the pot. Bring to a boil and then simmer for 10-15 minutes to let the flavors infuse.",
+        "Add the protein back into the pot and simmer for another 10-15 minutes to cook through. Season with soy sauce (or tamari), salt, and pepper to taste.",
+        "Garnish with fresh herbs and serve hot. You can pair it with yam, plantains, or bread for a complete meal."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Local and Seasonal Ingredients: Pepper soup often uses locally grown spices, herbs, and vegetables like peppers, onions, and yams. Sourcing these ingredients locally and seasonally reduces transportation costs and supports local farming practices.",
+        "Minimal Waste: Vegetable scraps (such as pepper stems or onion skins) can be used to make homemade vegetable broth. Leftover soup can be easily stored and eaten later, minimizing food waste.",
+        "Reducing Packaging Waste: Using fresh ingredients from local markets or farmers’ markets, rather than pre-packaged ones, reduces the amount of single-use plastic packaging. Homemade broths or seasoning can further cut down on packaging waste.",
+        "Sustainable Oil Use: Choosing oils like sustainably sourced olive oil or coconut oil helps reduce the environmental impact of oil production, especially compared to unsustainably sourced palm oil.",
+        "Optional Plant-Based Flavor Additions: Nutritional yeast, herbs, and spices can be used as plant-based alternatives to traditional animal-derived seasonings like crayfish, further making the dish vegan-friendly."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 3,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Ayamase",
+      "image": "images/ayamase.png",
+      "short_description": "Ayamase is a rich and flavorful Nigerian green pepper sauce made from green bell peppers, onions, and spices. It is typically cooked with meat or fish but can also be made with plant-based proteins. This version focuses on sustainability by using locally sourced ingredients and reducing food waste.",
+      "time": "35 mins",
+      "file": "ayamase.html",
+      "calories": "347 cal",
+      "ingredients": [
+        { "item": "green bell peppers", "quantity": "2 medium-sized" },
+        { "item": "scotch bonnet peppers", "quantity": "2 (adjust to spice level)" },
+        { "item": "onion", "quantity": "1, chopped" },
+        { "item": "palm oil (sustainably sourced)", "quantity": "1 tablespoon" },
+        { "item": "tomato paste", "quantity": "2 tablespoons" },
+        { "item": "ground crayfish (optional)", "quantity": "1 tablespoon" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "vegetable broth (homemade)", "quantity": "1 cup" }
+      ],
+      "instructions": [
+        "Blend the green bell peppers, scotch bonnet peppers, and onions into a smooth paste.",
+        "In a pan, heat the palm oil. Add the blended pepper mixture and cook for 10-15 minutes, stirring occasionally.",
+        "Stir in the tomato paste, ground crayfish (if using), and salt. Cook for another 5 minutes to deepen the flavors.",
+        "Pour in the vegetable broth, stir, and let the sauce simmer for 10 more minutes until thickened.",
+        "Serve hot with rice, yam, or your choice of starch."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Seasonal and Local Ingredients: Using locally grown green bell peppers, onions, and locust beans (iru) reduces transportation emissions and supports local farmers.",
+        "Minimal Waste: Utilizing the entire vegetable and storing leftover sauce for later use minimizes food waste.",
+        "Reducing Packaging Waste: Choosing fresh produce over pre-packaged alternatives helps reduce single-use plastic packaging.",
+        "Sustainable Oil Use: Using responsibly sourced palm oil or alternatives like sunflower oil reduces environmental impact.",
+        "Plant-Based Options: Replacing animal-based seasonings with nutritional yeast or smoked paprika makes the dish fully plant-based and more sustainable."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 4,
+        "waste_consideration": 3
+      }
+    },
+    {
+      "name": "Moin-Moin",
+      "image": "images/moin_moin.png",
+      "short_description": "Moin Moin is a steamed Nigerian dish made from blended beans, peppers, onions, and spices, then wrapped in banana leaves or steamed in a mold. It is a protein-packed dish and is often served as a side or accompaniment to rice or other dishes. Moin Moin can be made with additional fillings like eggs or fish for extra flavor.",
+      "time": "35 mins",
+      "file": "moin_moin.html",
+      "calories": "347 cal",
+      "ingredients": [
+        { "item": "black-eyed beans (locally grown)", "quantity": "2 cups" },
+        { "item": "onion", "quantity": "1 large, chopped" },
+        { "item": "scotch bonnet peppers", "quantity": "2-3 (adjust spice level)" },
+        { "item": "olive oil (or sustainably sourced vegetable oil)", "quantity": "2 tablespoons" },
+        { "item": "thyme", "quantity": "1 teaspoon" },
+        { "item": "ground crayfish (optional)", "quantity": "1 tablespoon" },
+        { "item": "vegetable broth (homemade)", "quantity": "1 cup" }
+      ],
+      "instructions": [
+        "Soak the beans overnight. Peel them and blend with onions, peppers, and a little water until smooth.",
+        "Add the blended bean mixture to a bowl, and stir in thyme, ground crayfish, and vegetable broth to get a thick batter.",
+        "Pour the mixture into leaves or containers and steam for 45 minutes to an hour.",
+        "Serve with rice or as a standalone meal."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Local and Seasonal Ingredients: The use of local ingredients like peppers, onions, and tomatoes ensures the dish is seasonal and supports local agriculture, reducing the carbon footprint of transportation.",
+        "Minimal Waste: Leftover Moin Moin can be stored for later meals, helping to minimize food waste. Additionally, vegetable scraps can be composted or used in homemade broth.",
+        "Reducing Packaging Waste: By purchasing dry beans and fresh produce, you avoid the waste from canned or processed ingredients. Moin Moin can also be made with minimal packaging by using leaves or reusable containers for steaming.",
+        "Sustainable Oil Use: Opting for sustainably sourced vegetable oil, such as sunflower oil, helps reduce environmental damage associated with unsustainable oil production.",
+        "Optional Plant-Based Flavor Additions: Using plant-based flavorings such as nutritional yeast, smoked paprika, or mushrooms can enhance the flavor profile while making the dish fully vegan and reducing animal product use."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 4,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Okpa",
+      "image": "images/okpa.png",
+      "short_description": "Okpa is a traditional Nigerian dish made from Bambara nut flour, mixed with water, oil, and seasonings, and then steamed or boiled. The dish has a rich, dense texture and is typically eaten as a breakfast food or snack. Okpa is often served with sauce, pepper soup, or enjoyed on its own.",
+      "time": "35 mins",
+      "file": "okpa.html",
+      "calories": "347 cal",
+      "ingredients": [
+        { "item": "okpa flour (locally grown)", "quantity": "2 cups" },
+        { "item": "palm oil (sustainably sourced)", "quantity": "1 tablespoon" },
+        { "item": "salt", "quantity": "1 teaspoon" },
+        { "item": "vegetable broth (homemade)", "quantity": "1-2 cups" },
+        { "item": "ground crayfish (optional)", "quantity": "1 tablespoon" }
+      ],
+      "instructions": [
+        "Mix the Okpa Flour: Mix the okpa flour with vegetable broth to form a thick batter.",
+        "Cook the Okpa: Add palm oil and salt to the batter and cook over medium heat for 10-15 minutes, stirring constantly until it thickens.",
+        "Serve: Serve hot, garnished with ground crayfish if desired."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Local and Seasonal Ingredients: Okpa uses local ingredients like palm oil, onions, and spices, many of which are seasonal. Sourcing these ingredients locally helps reduce transportation costs and emissions.",
+        "Minimal Waste: Leftover Okpa can be saved for later meals, minimizing food waste. Any vegetable scraps can be reused in other dishes or to make broth.",
+        "Reducing Packaging Waste: Opting for dry soybeans or flour over pre-packaged, processed ingredients cuts down on packaging waste. Palm oil can also be bought in bulk, reducing reliance on single-use packaging.",
+        "Sustainable Oil Use: Sustainably sourced palm oil or alternatives like coconut oil can be used to prepare Okpa, reducing the negative environmental impact of oil production.",
+        "Optional Plant-Based Flavor Additions: To further enhance the flavor, you can use ingredients like nutritional yeast or smoked paprika for a rich, umami taste, making the dish fully plant-based."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 4,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Nkwobi",
+      "image": "images/nkwobi.png",
+      "short_description": "Nkwobi is a Nigerian dish made from cow feet, which are cooked in a flavorful, spicy sauce. The meat is tender and gelatinous, and the dish is seasoned with a variety of spices, including palm oil, seasoning cubes, and ground pepper. Nkwobi is typically served as an appetizer or a celebratory dish and is enjoyed with a side of chilled palm wine.",
+      "time": "35 mins",
+      "file": "nkwobi.html",
+      "calories": "347 cal",
+      "ingredients": [
+        { "item": "cow foot or plant-based protein (e.g., jackfruit or tempeh)", "quantity": "2 cups" },
+        { "item": "palm oil (sustainably sourced)", "quantity": "1 tablespoon" },
+        { "item": "onion", "quantity": "1 medium, chopped" },
+        { "item": "garlic", "quantity": "2-3 cloves, minced" },
+        { "item": "scotch bonnet peppers", "quantity": "2-3, adjust to your spice level" },
+        { "item": "ground crayfish (optional)", "quantity": "1 tablespoon" },
+        { "item": "ground egusi (melon seeds)", "quantity": "1 tablespoon" },
+        { "item": "vegetable broth (homemade)", "quantity": "1 cup" },
+        { "item": "salt", "quantity": "to taste" }
+      ],
+      "instructions": [
+        "Cook the Protein: Cook the cow foot or plant-based protein until tender, then set aside.",
+        "Prepare the Sauce: Heat palm oil in a pan, add onions, garlic, and peppers, and sauté for 2-3 minutes. Add ground crayfish and egusi and stir for another 2 minutes.",
+        "Combine Protein and Sauce: Add the cooked protein and vegetable broth. Simmer for 10 minutes and adjust seasoning with salt.",
+        "Serve: Serve with fresh herbs or as an appetizer."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Local and Seasonal Ingredients: Nkwobi makes use of local ingredients like yam, locust beans (iru), and peppers. These ingredients are seasonal and locally available, supporting the local farming economy and reducing transportation-related emissions.",
+        "Minimal Waste: The recipe encourages using all parts of the ingredients, and leftovers can be stored for future meals, reducing overall food waste. Vegetable scraps can also be repurposed into broths or sauces.",
+        "Reducing Packaging Waste: Using fresh, whole ingredients instead of pre-packaged products helps reduce packaging waste. Making your own seasoning blends instead of using pre-packaged spice mixes also minimizes waste.",
+        "Sustainable Oil Use: Choosing sustainably sourced oils, like olive oil or palm oil, helps reduce the environmental impact of oil production.",
+        "Optional Plant-Based Flavor Additions: To make Nkwobi fully plant-based, using plant-based flavorings such as nutritional yeast or smoked paprika instead of animal-based seasonings like fish or crayfish provides an equally delicious taste."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 3,
+        "energy_impact": 4,
+        "waste_consideration": 4
+      }
+    },
+    {
+      "name": "Bitter leaf Soup",
+      "image": "images/bitter_leaf_soup.png",
+      "short_description": "Bitterleaf soup is a rich and flavorful soup from Nigeria, made with bitterleaf, a local leafy vegetable, along with meat, fish, and seasonings. The bitterness of the leaves is balanced by the rich, hearty broth made with ingredients like palm oil and ground spices. It is often served with pounded yam, fufu, or rice and is a favorite dish for special occasions.",
+      "time": "35 mins",
+      "file": "bitter_leaf_soup.html",
+      "calories": "347 cal",
+      "ingredients": [
+        { "item": "bitterleaf (fresh or dried, sustainably sourced)", "quantity": "2 cups" },
+        { "item": "plant-based protein (tofu, tempeh, or mushrooms) or meat", "quantity": "2 cups" },
+        { "item": "palm oil (sustainably sourced)", "quantity": "1 tablespoon" },
+        { "item": "onion", "quantity": "1 large, chopped" },
+        { "item": "scotch bonnet peppers", "quantity": "2-3" },
+        { "item": "ground crayfish (optional)", "quantity": "1 tablespoon" },
+        { "item": "vegetable broth (homemade)", "quantity": "1 cup" },
+        { "item": "salt", "quantity": "to taste" }
+      ],
+      "instructions": [
+        "Prepare the Bitterleaf: Wash and rinse the bitterleaf thoroughly to reduce the bitterness (if using fresh).",
+        "Cook the Protein: Cook the protein of your choice until tender. Set aside.",
+        "Make the Soup: Heat palm oil in a pot, sauté onions and peppers, and then add the ground crayfish. Add vegetable broth and bring to a simmer.",
+        "Combine and Cook: Add the protein and bitterleaf to the soup and cook for another 10 minutes.",
+        "Serve: Serve with pounded yam, rice, or another starch of your choice."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Local and Seasonal Ingredients: The soup relies on locally sourced, seasonal vegetables such as bitterleaf, pumpkin leaves, and other greens, supporting local farmers and reducing transportation emissions.",
+        "Minimal Waste: The soup is made with fresh, whole ingredients, and vegetable scraps can be used for broths or other dishes. Leftovers can also be stored for later, helping to reduce food waste.",
+        "Reducing Packaging Waste: Using fresh, whole ingredients instead of pre-packaged items reduces packaging waste. Homemade broths and spices further minimize the need for store-bought products, which often come in plastic packaging.",
+        "Sustainable Oil Use: Using sustainably sourced oils like olive or vegetable oil for the soup minimizes the environmental impacts associated with oil production.",
+        "Optional Plant-Based Flavor Additions: To make the soup vegan, plant-based flavorings like nutritional yeast or miso can be used instead of animal-derived ingredients like fish or stock cubes, reducing the environmental impact of the dish."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 4
+      }
+    },
+    {
+      "name": "Jamaican Stew Chicken (Fried Chicken)",
+      "image": "images/jamaican_stew_chicken.png",
+      "short_description": "A flavorful chicken dish made with a blend of spices, onions, tomatoes, and bell peppers, commonly served with rice or plantains.",
+      "time": "90 mins",
+      "file": "jamaican_stew_chicken_(fried_chicken).html",
+      "calories": "400 cal",
+      "ingredients": [
+        { "item": "chicken (preferably free-range or locally farmed)", "quantity": "1 kg" },
+        { "item": "onion", "quantity": "1 large, finely chopped" },
+        { "item": "garlic", "quantity": "2 cloves, minced" },
+        { "item": "green bell pepper", "quantity": "1, chopped" },
+        { "item": "tomatoes", "quantity": "2, chopped" },
+        { "item": "curry powder", "quantity": "1 tablespoon" },
+        { "item": "thyme", "quantity": "1 tablespoon" },
+        { "item": "turmeric (optional)", "quantity": "1/2 teaspoon" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "pepper", "quantity": "to taste" },
+        { "item": "vegetable oil (or palm oil for added richness)", "quantity": "1/4 cup" },
+        { "item": "soy sauce (optional)", "quantity": "1 tablespoon" }
+      ],
+      "instructions": [
+        "Clean and cut the chicken into pieces. Season it with salt, pepper, curry powder, thyme, turmeric, and soy sauce. Marinate for at least 1 hour.",
+        "Heat the vegetable oil in a large frying pan over medium heat.",
+        "Fry the seasoned chicken pieces until golden brown, about 10-15 minutes. Remove and set aside.",
+        "In the same pan, sauté onions, garlic, and green bell peppers for 5 minutes until softened.",
+        "Add chopped tomatoes, ground pepper, curry powder, and other spices. Cook for another 5-7 minutes until the tomatoes break down.",
+        "Return the fried chicken to the pan and mix it with the sauce, letting it simmer for 5-7 minutes to allow the flavors to meld.",
+        "Serve the stew chicken with rice or yam."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Using locally farmed or free-range chicken ensures that the meat comes from smaller operations that typically have a smaller carbon footprint than industrial chicken farms. These small-scale farms are more likely to employ natural farming practices and contribute to regional economies.",
+        "The use of locally grown vegetables and spices further reduces transportation emissions and supports local agricultural systems.",
+        "By focusing on natural seasonings and avoiding processed additives, this dish maintains a low environmental impact."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 3,
+        "energy_impact": 4,
+        "waste_consideration": 4
+      }
+    },
+    {
+      "name": "Rice and Beans (Ofada Rice and Gbegiri)",
+      "image": "images/rice_and_beans.png",
+      "short_description": "A hearty and nutritious combination of rice and beans, often enjoyed with a variety of stews.",
+      "time": "60 mins",
+      "file": "rice_and_beans_(ofada_rice_and_gbegiri).html",
+      "calories": "350 cal",
+      "ingredients": [
+        { "item": "Ofada rice (locally grown)", "quantity": "2 cups" },
+        { "item": "beans (e.g., black-eyed peas or kidney beans)", "quantity": "1 cup" },
+        { "item": "onions", "quantity": "2 medium, chopped" },
+        { "item": "tomatoes", "quantity": "3 medium, chopped" },
+        { "item": "palm oil", "quantity": "1/4 cup" },
+        { "item": "ground pepper", "quantity": "1 teaspoon" },
+        { "item": "curry powder", "quantity": "1 teaspoon" },
+        { "item": "salt", "quantity": "to taste" },
+        { "item": "dried thyme", "quantity": "1 teaspoon" },
+        { "item": "water", "quantity": "4 cups (or more for desired consistency)" }
+      ],
+      "instructions": [
+        "Rinse the beans and cook them in a pot of boiling water until tender (about 30–40 minutes).",
+        "In a separate pot, cook the Ofada rice by boiling it in water until tender (about 15-20 minutes). Drain any excess water.",
+        "Heat palm oil in a large saucepan and sauté the chopped onions for 5 minutes until translucent.",
+        "Add the chopped tomatoes and cook for an additional 5-7 minutes until they soften.",
+        "Add ground pepper, curry powder, thyme, and salt. Stir to combine.",
+        "Add the cooked beans to the sauce, simmering for 10 minutes.",
+        "Serve the rice topped with the beans sauce."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Ofada rice is grown locally, often using traditional farming methods that are less resource-intensive than large-scale, industrial rice production.",
+        "Beans, as nitrogen-fixing plants, improve soil fertility and reduce the need for synthetic fertilizers, making them environmentally beneficial.",
+        "By using local crops, this dish minimizes the environmental impact associated with food transportation and supports local farmers.",
+        "Moreover, beans and rice have relatively low water footprints compared to other crops."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 4,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Tuwon Shinkafa (Rice Porridge)",
+      "image": "images/tuwon_shinkafa.png",
+      "short_description": "A thick, creamy porridge made from rice, commonly served for breakfast or as a side dish with soups and stews.",
+      "time": "30 mins",
+      "file": "tuwon_shinkafa_(rice_porridge).html",
+      "calories": "250 cal",
+      "ingredients": [
+        { "item": "Rice (preferably locally grown)", "quantity": "2 cups" },
+        { "item": "Water (filtered)", "quantity": "5 cups" },
+        { "item": "Vegetable oil", "quantity": "1/4 cup" },
+        { "item": "Salt", "quantity": "to taste" },
+        { "item": "Ground pepper (optional)", "quantity": "1 tablespoon" }
+      ],
+      "instructions": [
+        "Rinse the rice thoroughly to remove excess starch and impurities.",
+        "In a pot, add rice and water and bring to a boil. Reduce the heat and simmer, stirring occasionally, for 15–20 minutes, or until the rice becomes tender and the water is absorbed.",
+        "Add the vegetable oil and salt, stirring to combine. For a spicier option, add ground pepper.",
+        "Cook for an additional 5 minutes until the porridge thickens to a creamy consistency.",
+        "Serve the porridge hot with your choice of soup or stew."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Rice is grown in many parts of Northern Nigeria, and using locally grown rice for Tuwon Shinkafa supports local rice farming communities.",
+        "By focusing on traditional, minimal-processing cooking methods, this dish avoids the need for highly processed ingredients that often have a larger environmental footprint.",
+        "The rice production process also uses less water than other grains like wheat, making it a more water-efficient choice."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 5,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Abacha",
+      "image": "images/abacha.png",
+      "short_description": "A popular Igbo dish made from shredded cassava, mixed with palm oil, garden eggs, fish, and spices.",
+      "time": "20 mins",
+      "file": "abacha.html",
+      "calories": "320 cal",
+      "ingredients": [
+        { "item": "Dried cassava (Abacha)", "quantity": "2 cups" },
+        { "item": "Palm oil", "quantity": "1/4 cup" },
+        { "item": "Large onion, thinly sliced", "quantity": "1" },
+        { "item": "Ground pepper", "quantity": "1/2 cup" },
+        { "item": "Ground crayfish", "quantity": "1/4 cup" },
+        { "item": "Dried fish (optional)", "quantity": "1 tablespoon" },
+        { "item": "Garden eggs, sliced", "quantity": "1-2" },
+        { "item": "Salt", "quantity": "1/4 teaspoon" },
+        { "item": "Ground pepper soup spice (optional)", "quantity": "2 tablespoons" }
+      ],
+      "instructions": [
+        "Soak the dried cassava in warm water for about 15 minutes to soften it.",
+        "Drain the cassava, then combine it with palm oil, sliced onions, garden eggs, and ground crayfish.",
+        "Add ground pepper, pepper soup spice, and dried fish (if using).",
+        "Mix thoroughly, ensuring the cassava is evenly coated in the palm oil and spices.",
+        "Serve immediately, garnished with fresh vegetables."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Cassava is a hardy crop that grows well in tropical climates with minimal water requirements.",
+        "It is a food staple in many parts of Nigeria, and using locally grown cassava helps reduce environmental impact.",
+        "The other ingredients such as palm oil, garden eggs, and fish can also be sourced locally, reducing transportation costs and supporting regional economies."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 5,
+        "energy_impact": 4,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Ofe Nsala (White Soup)",
+      "image": "images/ofe_nsala.png",
+      "short_description": "A light, clear soup made from fresh fish, yam, and local spices, often served with fufu or pounded yam.",
+      "time": "30 mins",
+      "file": "ofe_nsala_(white_soup).html",
+      "calories": "280 cal",
+      "ingredients": [
+        { "item": "Catfish or any local fish", "quantity": "500g" },
+        { "item": "Medium yam (boiled and mashed)", "quantity": "1" },
+        { "item": "Ground crayfish", "quantity": "2 tablespoons" },
+        { "item": "Onion, chopped", "quantity": "1" },
+        { "item": "Ground pepper", "quantity": "1 teaspoon" },
+        { "item": "Garlic (optional)", "quantity": "2 cloves" },
+        { "item": "Uziza leaves (locally grown)", "quantity": "1 tablespoon" },
+        { "item": "Salt", "quantity": "To taste" }
+      ],
+      "instructions": [
+        "Boil the fish with onions, garlic, and some salt until tender.",
+        "In a separate pot, mash the boiled yam and add it to the fish stock to thicken the soup.",
+        "Add ground crayfish, ground pepper, and uziza leaves.",
+        "Simmer for 10-15 minutes, adding water if necessary to adjust the consistency.",
+        "Serve hot with fufu, pounded yam, or rice."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Fish, especially local varieties like catfish, are abundant in rivers and lakes in the Igbo region, providing a sustainable source of protein.",
+        "Yam, which grows well in the local environment, requires less water than many other crops.",
+        "The dish uses minimal energy-intensive ingredients, promoting sustainable food practices."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 5,
+        "energy_impact": 4,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Isi Ewu",
+      "image": "images/isi_ewu.png",
+      "short_description": "A rich goat head dish served with spicy sauce, often enjoyed as a celebratory dish or snack.",
+      "time": "45 mins",
+      "file": "isi_ewu.html",
+      "calories": "350 cal",
+      "ingredients": [
+        { "item": "Goat head (locally sourced)", "quantity": "1" },
+        { "item": "Palm oil", "quantity": "1/4 cup" },
+        { "item": "Ground pepper", "quantity": "1 tablespoon" },
+        { "item": "Onions, chopped", "quantity": "2" },
+        { "item": "Ground crayfish", "quantity": "1 tablespoon" },
+        { "item": "Uziza pepper", "quantity": "1 teaspoon" },
+        { "item": "Salt", "quantity": "To taste" }
+      ],
+      "instructions": [
+        "Boil the goat head with onions and salt until tender.",
+        "In a separate pan, heat palm oil and sauté onions, adding ground crayfish, uziza pepper, and ground pepper.",
+        "Add the boiled goat head, stir to coat the meat in the sauce, and cook for another 10-15 minutes.",
+        "Serve with a side of chilled palm wine or as an appetizer."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Goat farming is an essential part of the Igbo agricultural system, providing a sustainable source of meat while supporting small-scale farmers.",
+        "By using locally sourced goat meat, the dish minimizes the environmental impact from transportation and supports local economies.",
+        "The use of minimal, natural ingredients ensures a lower carbon footprint."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 3,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Ukodo (Yam Porridge)",
+      "image": "images/ukodo.png",
+      "short_description": "A hearty dish made from boiled yam, cooked with vegetables, palm oil, and spices, often served as a full meal.",
+      "time": "40 mins",
+      "file": "ukodo_(yam_porridge).html",
+      "calories": "400 cal",
+      "ingredients": [
+        { "item": "Medium-sized yams", "quantity": "4" },
+        { "item": "Palm oil", "quantity": "1/4 cup" },
+        { "item": "Onion, chopped", "quantity": "1" },
+        { "item": "Tomatoes, chopped", "quantity": "2" },
+        { "item": "Ground pepper", "quantity": "1 tablespoon" },
+        { "item": "Thyme", "quantity": "1 teaspoon" },
+        { "item": "Spinach or other leafy vegetables", "quantity": "1 cup" },
+        { "item": "Salt", "quantity": "To taste" }
+      ],
+      "instructions": [
+        "Peel and cut the yams into chunks. Boil them in water until soft.",
+        "In a separate pot, heat palm oil and sauté onions and tomatoes.",
+        "Add ground pepper, thyme, and salt. Stir and cook for 5 minutes.",
+        "Add the boiled yams to the sauce, mixing well to coat the yams in the sauce.",
+        "Stir in spinach or other greens and simmer for another 5-10 minutes.",
+        "Serve hot as a full meal."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Yam is grown locally and requires less water compared to other crops.",
+        "It is a staple food in Igbo culture, supporting local farmers.",
+        "The dish uses natural, plant-based ingredients, making it an environmentally friendly option.",
+        "It is a nutrient-dense meal, providing both carbohydrates and vegetables."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 5,
+        "energy_impact": 4,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Fried Plantain (Dodo)",
+      "image": "images/fried_plantain.png",
+      "short_description": "A simple yet delicious dish of sliced plantains fried until golden brown, often served as a side or snack.",
+      "time": "15 mins",
+      "file": "fried_plantain_(dodo).html",
+      "calories": "250 cal",
+      "ingredients": [
+        { "item": "Ripe plantains", "quantity": "3" },
+        { "item": "Vegetable oil", "quantity": "1/4 cup" },
+        { "item": "Salt", "quantity": "To taste" }
+      ],
+      "instructions": [
+        "Peel and slice the plantains into rounds or diagonal pieces.",
+        "Heat vegetable oil in a frying pan over medium heat.",
+        "Fry the plantains in batches until golden brown and crispy, about 3-5 minutes per side.",
+        "Drain excess oil on paper towels and sprinkle with salt.",
+        "Serve immediately."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Plantains are grown in tropical regions with relatively low water requirements.",
+        "The dish uses minimal ingredients, reducing energy consumption and the need for long supply chains.",
+        "Plantains are often grown locally, supporting small-scale farmers."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 5,
+        "energy_impact": 5,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Pounded Yam",
+      "image": "images/pounded_yam.png",
+      "short_description": "A traditional Nigerian dish made from yam tubers pounded into a smooth, stretchy dough, typically served with soup.",
+      "time": "40 mins",
+      "file": "pounded_yam.html",
+      "calories": "200 cal",
+      "ingredients": [
+        { "item": "Medium-sized yams", "quantity": "4" },
+        { "item": "Water", "quantity": "As needed" }
+      ],
+      "instructions": [
+        "Peel the yams and boil them in water until soft (about 30-40 minutes).",
+        "Drain the yams and pound them in a mortar and pestle until smooth and stretchy. Alternatively, use a stand mixer or food processor.",
+        "Serve immediately with a variety of soups or stews."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Yams are a drought-tolerant crop that grows well in the semi-arid regions of Northern Nigeria.",
+        "They require minimal irrigation compared to water-intensive crops like rice.",
+        "Since yams are grown locally, they support small-scale farmers and have a lower environmental footprint."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 5,
+        "energy_impact": 4,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Ogbono Soup",
+      "image": "images/ogbono_soup.png",
+      "short_description": "A thick and flavorful soup made from wild mango seeds (ogbono), cooked with assorted meats, fish, and vegetables.",
+      "time": "60 mins",
+      "file": "ogbono_soup.html",
+      "calories": "350 cal",
+      "ingredients": [
+        { "item": "Ground ogbono", "quantity": "1/4 cup" },
+        { "item": "Assorted meats (goat meat, beef, or fish)", "quantity": "500g" },
+        { "item": "Palm oil", "quantity": "2 tablespoons" },
+        { "item": "Onions, chopped", "quantity": "2" },
+        { "item": "Tomatoes, chopped", "quantity": "3" },
+        { "item": "Ground crayfish", "quantity": "1 tablespoon" },
+        { "item": "Ground pepper", "quantity": "1 teaspoon" },
+        { "item": "Salt", "quantity": "To taste" }
+      ],
+      "instructions": [
+        "Boil the assorted meats until tender.",
+        "In a separate pot, heat palm oil and sauté onions and tomatoes.",
+        "Add ground ogbono, ground crayfish, ground pepper, and salt. Stir to form a thick paste.",
+        "Add the boiled meat and stock, then simmer for 10-15 minutes.",
+        "Serve hot with pounded yam, fufu, or rice."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Ogbono is derived from the wild mango tree, a crop that grows with little intervention and requires minimal water.",
+        "This dish supports the local economy by using locally harvested meat and fish, reducing transportation emissions.",
+        "The soup utilizes ingredients with a low environmental impact."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 3,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Coconut Rice",
+      "image": "images/coconut_rice.png",
+      "short_description": "A flavorful rice dish cooked with coconut milk, often served with vegetables and protein.",
+      "time": "45 mins",
+      "file": "coconut_rice.html",
+      "calories": "350 cal",
+      "ingredients": [
+        { "item": "Long-grain rice", "quantity": "2 cups" },
+        { "item": "Coconut milk", "quantity": "1/2 cup" },
+        { "item": "Vegetable oil", "quantity": "2 tablespoons" },
+        { "item": "Onion, chopped", "quantity": "1 large" },
+        { "item": "Tomatoes, chopped", "quantity": "2" },
+        { "item": "Thyme", "quantity": "1 teaspoon" },
+        { "item": "Salt", "quantity": "To taste" }
+      ],
+      "instructions": [
+        "Rinse the rice and set aside.",
+        "In a large pot, heat vegetable oil and sauté onions and tomatoes until soft.",
+        "Add the rice and stir to coat in the tomato sauce.",
+        "Add coconut milk, thyme, and salt, then add water to cook the rice.",
+        "Cook for 20-25 minutes until the rice is tender and the coconut milk is absorbed.",
+        "Serve hot with vegetables and protein."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Coconuts are widely grown in Southern Nigeria, and this dish makes use of locally available coconut milk.",
+        "Rice production in Nigeria is sustainable, especially when sourced from local farmers, reducing transportation emissions.",
+        "This dish supports local agricultural economies and is made from environmentally friendly ingredients."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 3,
+        "energy_impact": 3,
+        "waste_consideration": 5
+      }
+    },
+    {
+      "name": "Ofe Akwu (Palm Nut Soup)",
+      "image": "images/ofe_akwu.png",
+      "short_description": "A rich, flavorful soup made from palm nuts and typically cooked with fish, meat, and vegetables. It's a highly prized dish in Edo cuisine.",
+      "time": "45 mins",
+      "file": "ofe_akwu_(palm_nut_soup).html",
+      "calories": "400 cal",
+      "ingredients": [
+        { "item": "Palm nut extract", "quantity": "1 cup" },
+        { "item": "Catfish (or any local fish)", "quantity": "500g" },
+        { "item": "Palm oil", "quantity": "1/4 cup" },
+        { "item": "Onions, chopped", "quantity": "2" },
+        { "item": "Ground crayfish", "quantity": "1 tablespoon" },
+        { "item": "Ground pepper", "quantity": "1 teaspoon" },
+        { "item": "Uziza (or other local spices)", "quantity": "1 teaspoon" },
+        { "item": "Salt", "quantity": "To taste" }
+      ],
+      "instructions": [
+        "Boil the palm nuts in water until the outer skin softens. Extract the juice by pounding or blending the nuts.",
+        "Heat palm oil in a pot, then sauté the onions until soft.",
+        "Add the palm nut extract and bring it to a simmer.",
+        "Add the fish, ground crayfish, ground pepper, and uziza.",
+        "Let the soup cook for 10-15 minutes, adjusting thickness as necessary.",
+        "Serve hot with rice or fufu."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Palm nut extraction is a local industry in Edo State, providing employment to many farmers.",
+        "The soup makes use of locally caught fish and fresh vegetables, which helps to promote food security and sustainability."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 3,
+        "energy_impact": 3,
+        "waste_consideration": 4
+      }
+    },
+    {
+      "name": "Eba and Owo Soup",
+      "image": "images/eba_and_owo_soup.png",
+      "short_description": "Eba (made from garri) is a popular staple in Edo State, served with a delicious, spicy soup made with fish, meat, and vegetables.",
+      "time": "60 mins",
+      "file": "eba_and_owo_soup.html",
+      "calories": "500 cal",
+      "ingredients": [
+        { "item": "Garri (for eba)", "quantity": "2 cups" },
+        { "item": "Assorted meats (goat meat, beef, or fish)", "quantity": "500g" },
+        { "item": "Palm oil", "quantity": "1/4 cup" },
+        { "item": "Onions, chopped", "quantity": "2" },
+        { "item": "Ground crayfish", "quantity": "1 tablespoon" },
+        { "item": "Ground pepper", "quantity": "1 teaspoon" },
+        { "item": "Ground pepper soup spice", "quantity": "1 tablespoon (optional)" },
+        { "item": "Salt", "quantity": "To taste" }
+      ],
+      "instructions": [
+        "Boil the meats until tender.",
+        "In a separate pan, heat palm oil and sauté onions.",
+        "Add ground crayfish, ground pepper, and ground pepper soup spice.",
+        "Add the boiled meats, and let it simmer for 10-15 minutes.",
+        "Prepare the eba by stirring garri in hot water until it forms a smooth dough.",
+        "Serve the eba with the soup."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Garri, made from cassava, is a highly sustainable crop that thrives in the climate of Edo State.",
+        "By utilizing locally grown meats and vegetables, this dish supports the region's agricultural economy and reduces reliance on imported foods."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 3,
+        "waste_consideration": 4
+      }
+    },
+    {
+      "name": "Okpa (Steamed Bean Cake)",
+      "image": "images/okpa.png",
+      "short_description": "A savory snack made from grounded bambara beans, which are steamed into a dough-like cake and served as a light meal.",
+      "time": "60 mins",
+      "file": "okpa_(steamed_bean_cake).html",
+      "calories": "350 cal",
+      "ingredients": [
+        { "item": "Bambara beans (ground into flour)", "quantity": "2 cups" },
+        { "item": "Palm oil", "quantity": "1/4 cup" },
+        { "item": "Ground pepper", "quantity": "1 teaspoon" },
+        { "item": "Ground crayfish", "quantity": "1 tablespoon" },
+        { "item": "Salt", "quantity": "To taste" }
+      ],
+      "instructions": [
+        "Mix the bambara bean flour with water until it forms a thick batter.",
+        "Stir in palm oil, ground crayfish, ground pepper, and salt.",
+        "Pour the batter into banana leaves or a small bowl and steam for 30-40 minutes.",
+        "Serve as a snack or light meal."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Bambara beans are drought-resistant and require minimal water to grow, making them an ideal crop for sustainable farming.",
+        "This dish is made from locally sourced ingredients, supporting local farmers and reducing food transportation impacts."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 5,
+        "energy_impact": 3,
+        "waste_consideration": 4
+      }
+    },
+    {
+      "name": "Owo (Stew)",
+      "image": "images/owo.png",
+      "short_description": "A rich stew made from palm oil, tomatoes, onions, and a variety of meats or fish, served with rice or yam.",
+      "time": "40 mins",
+      "file": "owo_(stew).html",
+      "calories": "450 cal",
+      "ingredients": [
+        { "item": "Assorted meats (goat meat, beef, or fish)", "quantity": "500g" },
+        { "item": "Palm oil", "quantity": "1/4 cup" },
+        { "item": "Onions (chopped)", "quantity": "2" },
+        { "item": "Tomatoes (chopped)", "quantity": "2" },
+        { "item": "Ground crayfish", "quantity": "1 tablespoon" },
+        { "item": "Ground pepper", "quantity": "1 teaspoon" },
+        { "item": "Salt", "quantity": "To taste" }
+      ],
+      "instructions": [
+        "Boil the meats until tender.",
+        "Heat palm oil in a pan, then sauté onions and tomatoes until soft.",
+        "Add ground crayfish, ground pepper, and salt, and stir.",
+        "Add the boiled meats and let it simmer for 10 minutes.",
+        "Serve with rice, yam, or plantains."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "The dish utilizes locally produced palm oil, which is a significant agricultural product in Edo State.",
+        "The meats used in the stew are sourced from local farms, reducing the carbon footprint and supporting regional agriculture."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 3,
+        "energy_impact": 4,
+        "waste_consideration": 3
+      }
+    },
+    {
+      "name": "Kunu",
+      "image": "images/kunu.png",
+      "short_description": "A sweet, tangy, and nutritious fermented beverage made from millet, commonly enjoyed in Northern Nigeria.",
+      "time": "20 mins",
+      "file": "kunu.html",
+      "calories": "150 cal",
+      "ingredients": [
+        { "item": "Millet (locally grown)", "quantity": "1 cup" },
+        { "item": "Water (filtered)", "quantity": "4 cups" },
+        { "item": "Sugar (optional)", "quantity": "1/4 cup" },
+        { "item": "Ground ginger", "quantity": "1 tablespoon" },
+        { "item": "Cloves (optional)", "quantity": "1/4 teaspoon" },
+        { "item": "Vanilla extract (optional)", "quantity": "1/2 teaspoon" }
+      ],
+      "instructions": [
+        "Rinse the millet in cold water and soak it for at least 12-24 hours.",
+        "After soaking, drain and blend the millet with 2 cups of fresh water until smooth.",
+        "Strain the mixture through a fine mesh or cheesecloth to remove the coarse hulls.",
+        "In a saucepan, bring the strained mixture to a boil over medium heat, stirring frequently.",
+        "Once the mixture boils, reduce the heat and let it simmer for 15-20 minutes.",
+        "Add sugar (if desired), ground ginger, cloves, and vanilla extract.",
+        "Allow it to cool to room temperature, then refrigerate it for a few hours to chill before serving."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Millet is a drought-resistant, low-water crop that grows well in semi-arid conditions.",
+        "It requires less water than many other grains, making it an environmentally friendly choice for farmers in Northern Nigeria.",
+        "Millet cultivation helps maintain soil health by reducing the need for heavy irrigation and chemical fertilizers.",
+        "This drink is locally sourced, minimizing transportation emissions and supporting local economies."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 5,
+        "energy_impact": 3,
+        "waste_consideration": 4
+      }
+    },
+    {
+      "name": "Zobo",
+      "image": "images/zobo.png",
+      "short_description": "A tangy, refreshing drink made from dried hibiscus petals, often served cold with a variety of natural flavorings.",
+      "time": "15 mins",
+      "file": "zobo.html",
+      "calories": "120 cal",
+      "ingredients": [
+        { "item": "Dried hibiscus petals (locally sourced)", "quantity": "1 cup" },
+        { "item": "Water", "quantity": "5 cups" },
+        { "item": "Sugar (optional)", "quantity": "1/4 cup" },
+        { "item": "Grated ginger", "quantity": "1 tablespoon" },
+        { "item": "Cloves (optional)", "quantity": "2" },
+        { "item": "Pineapple juice (optional, for a tropical twist)", "quantity": "1/2 cup" },
+        { "item": "Lemon juice (optional)", "quantity": "1 tablespoon" }
+      ],
+      "instructions": [
+        "Bring 5 cups of water to a boil in a saucepan.",
+        "Add the dried hibiscus petals to the boiling water and let it simmer for 10-15 minutes, allowing the petals to infuse the water.",
+        "Strain the mixture through a fine mesh to remove the hibiscus petals.",
+        "Add sugar, ginger, cloves, pineapple juice, and lemon juice (optional) to the liquid. Stir well to combine.",
+        "Allow the drink to cool to room temperature, then refrigerate to chill.",
+        "Serve chilled over ice."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Hibiscus is a hardy plant that thrives in dry conditions with minimal water, making it ideal for Northern Nigeria's semi-arid climate.",
+        "It is grown using fewer chemical inputs, reducing the environmental impact of farming.",
+        "The dried hibiscus petals are lightweight and require minimal energy for transportation.",
+        "This beverage uses natural ingredients like ginger and pineapple, which can be locally sourced, further reducing the need for imported goods and supporting local farmers."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 5,
+        "energy_impact": 2,
+        "waste_consideration": 4
+      }
+    },
+    {
+      "name": "Suya",
+      "image": "images/suya.png",
+      "short_description": "A popular street food consisting of spicy skewered meat (often beef or chicken) grilled over open flames and served with onions, tomatoes, and peppers.",
+      "time": "45 mins",
+      "file": "suya.html",
+      "calories": "250 cal",
+      "ingredients": [
+        { "item": "Beef or chicken (locally sourced)", "quantity": "1 kg" },
+        { "item": "Ground ginger", "quantity": "1 tablespoon" },
+        { "item": "Ground garlic", "quantity": "1 tablespoon" },
+        { "item": "Ground pepper", "quantity": "2 tablespoons" },
+        { "item": "Paprika", "quantity": "1 tablespoon" },
+        { "item": "Salt", "quantity": "to taste" },
+        { "item": "Vegetable oil (for brushing)", "quantity": "1/4 cup" }
+      ],
+      "instructions": [
+        "Cut the beef or chicken into small cubes and season them with ginger, garlic, ground pepper, paprika, and salt.",
+        "Thread the seasoned meat onto skewers.",
+        "Preheat the grill or a barbecue, and brush the skewers lightly with vegetable oil.",
+        "Grill the skewers over medium heat, turning occasionally until the meat is fully cooked and slightly charred.",
+        "Serve with sliced onions, tomatoes, and peppers on the side."
+      ],
+      "why_this_recipe_is_sustainable": [
+        "Suya uses locally sourced beef or chicken, supporting small-scale farmers and reducing the carbon footprint associated with industrial animal farming.",
+        "Grilling meat is an energy-efficient method of cooking compared to other high-energy methods.",
+        "The use of local vegetables like onions and tomatoes for the side dish ensures that the dish has a lower transportation impact."
+      ],
+      "sustainability_ratings": {
+        "water_usage": 4,
+        "energy_impact": 3,
+        "waste_consideration": 5
+      }
+    }
+  ]
+}

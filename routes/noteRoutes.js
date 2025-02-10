@@ -6,13 +6,18 @@ const router = express.Router();
 
 /* ======= NOTES FUNCTIONALITY ======= */
 
-// Add a Note (secure route)
-router.post('/', authenticate, async (req, res) => {
+// Add a Note to a Recipe (secure route)
+router.post('/:recipeId/notes', authenticate, async (req, res) => {
   try {
-    const { note } = req.body;
+    const { recipeId } = req.params;  // Get recipeId from URL params
+    const { content } = req.body;
     const userId = req.user.userId;
 
-    const newNote = new Note({ userId, note });
+    if (!content) {
+      return res.status(400).json({ message: 'Note content is required' });
+    }
+
+    const newNote = new Note({ userId, recipeId, content });
     await newNote.save();
 
     res.status(201).json({ message: 'Note added successfully!', newNote });
@@ -22,10 +27,10 @@ router.post('/', authenticate, async (req, res) => {
 });
 
 // Update a Note (secure route)
-router.patch('/:id', authenticate, async (req, res) => {
+router.patch('/:recipeId/notes/:id', authenticate, async (req, res) => {
   try {
-    const { note } = req.body;
-    const noteId = req.params.id;
+    const { content } = req.body;
+    const { id: noteId } = req.params;  // Get noteId from URL params
     const userId = req.user.userId;
 
     const existingNote = await Note.findOne({ _id: noteId, userId });
@@ -34,7 +39,7 @@ router.patch('/:id', authenticate, async (req, res) => {
       return res.status(404).json({ message: 'Note not found' });
     }
 
-    existingNote.note = note;
+    existingNote.content = content;
     await existingNote.save();
 
     res.json({ message: 'Note updated successfully', existingNote });
@@ -43,12 +48,13 @@ router.patch('/:id', authenticate, async (req, res) => {
   }
 });
 
-// Get All Notes for a User (secure route)
-router.get('/', authenticate, async (req, res) => {
+// Get All Notes for a Specific Recipe (secure route)
+router.get('/:recipeId/notes', authenticate, async (req, res) => {
   try {
+    const { recipeId } = req.params;
     const userId = req.user.userId;
 
-    const notes = await Note.find({ userId });
+    const notes = await Note.find({ userId, recipeId });
 
     res.json(notes);
   } catch (error) {
@@ -57,9 +63,10 @@ router.get('/', authenticate, async (req, res) => {
 });
 
 // Delete a Note (secure route)
-router.delete('/:id', authenticate, async (req, res) => {
+router.delete('/:recipeId/notes/:id', authenticate, async (req, res) => {
   try {
-    const noteId = req.params.id;
+    const { id: noteId } = req.params;
+    const { recipeId } = req.params;  // You could use this to double-check the recipeId if needed
     const userId = req.user.userId;
 
     const deletedNote = await Note.findOneAndDelete({ _id: noteId, userId });
